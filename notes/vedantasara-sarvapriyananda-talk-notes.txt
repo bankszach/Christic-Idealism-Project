@@ -1,0 +1,73 @@
+Title
+-----
+- Swami Sarvapriyananda, “Vedantasara of Sadananda” – introductory talk (transcript in `Vedantasara-talk-sarvapriyanda.txt`).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Accessible, modern explanation of what *Vedāntasāra* is and how it fits into the broader Advaita Vedanta curriculum.
+- Clarifies:
+  - the hierarchy of Vedantic texts (Upanishads, Gita, Brahma Sutras, prakarana texts),
+  - why *Vedāntasāra* is used as a starting point for traditional students,
+  - the strengths and limitations of using a later systematizing text.
+
+Key points from the talk (from the excerpt)
+-------------------------------------------
+- Vedanta study group context:
+  - Aimed at “advanced study” of original Vedanta sources.
+  - Previous texts: Drig Drishya Viveka, Aparoksha Anubhuti, Panchadashi (partial), Mandukya Upanishad with Gaudapada’s Kārikā.
+- Fundamental textual basis of Vedanta:
+  - Upanishads (collectively Vedanta) – foundational.
+  - Bhagavad Gita – practical exposition of Upanishadic wisdom.
+  - Brahma Sutras – systematic philosophical and textual discussion.
+  - Together with commentaries (especially Śaṅkara’s), they form the tripod/base of Vedanta.
+- Major Upanishads (per Śaṅkara’s commentaries):
+  - Isha, Kena, Katha, Prashna, Mundaka, Mandukya, Taittiriya, Aitareya, Chandogya, Brihadaranyaka.
+  - Possibly Śvetāśvatara as an 11th (authorship of commentary disputed).
+- Prakarana texts:
+  - Later texts that systematize and teach the same truths as the Upanishads.
+  - Often called “introductory” but some are advanced.
+  - *Vedāntasāra* is one such prakarana, genuinely introductory and widely used.
+- Why *Vedāntasāra* matters:
+  - Traditional entry point for Advaita students (e.g., novices at Belur Math).
+  - A “book of definitions”:
+    - precise definitions of Brahman, God, individual beings, Māyā, etc.
+    - clarifies terminology to avoid later confusion.
+  - Provides a “wonderful sketch” of the entire Advaita Vedanta philosophy.
+- Map vs territory:
+  - *Vedāntasāra* is a late, highly systematized exposition (15th c.), thousands of years after Upanishads.
+  - Advantage:
+    - neat, geometric, easily digestible, good textbook.
+  - Disadvantage:
+    - a few steps removed from the raw vibrancy of original Upanishads.
+    - like a map vs the actual place.
+  - For scholars:
+    - ideal to go straight to originals.
+  - For spiritual practitioners:
+    - a clear system is very helpful for understanding, practicing, and realizing the teaching.
+
+Connections to Wholeframe work
+------------------------------
+- Confirms our Stage 1 approach:
+  - Using both primary sources (Upanishads, classical theology) and later systematizations (Vedāntasāra, Rahner, etc.).
+  - Being explicit about:
+    - what is “map” (our ontology, systematic exposition),
+    - what is “territory” (lived experience, Christ, concrete lives).
+- Helps frame:
+  - our own “essence of the system” section as a **prakarana-style** text:
+    - precise definitions,
+    - compact overview.
+  - while acknowledging that:
+    - it is a lens on reality, not reality itself.
+
+How to use this talk
+--------------------
+- As a pedagogical model:
+  - how to introduce a dense metaphysical text to intelligent but non-specialist listeners.
+  - tone and structure for explaining:
+    - why start with definitions,
+    - how late systematizations relate to older sources.
+- In `paper/main.tex`:
+  - Mention Sarvapriyananda’s exposition as a contemporary interpretive aid for Advaita, without heavily citing details.
+  - Use his map/territory framing when we discuss:
+    - our framework as a “map” that must be held lightly in relation to Christ and lived experience.
+

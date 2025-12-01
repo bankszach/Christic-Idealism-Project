@@ -1,0 +1,286 @@
+
+
+===== PAGE 1 =====
+
+RECENT |  |CATEGORIES
+Observer Theory PODCAST VIDEO
+Observer Theory
+December 11, 2023
+The Concept of the Observer
+We call it perception. We call it measurement. We call it analysis. But
+in the end it’s about how we take the world as it is, and derive from it
+the impression of it that we have in our minds.
+We might have thought that we could do science “purely objectively” without any
+reference to observers or their nature. But what we’ve discovered particularly
+dramatically in our Physics Project is that the nature of us as observers is critical
+even in determining the most fundamental laws we attribute to the universe.
+But what ultimately does an observer—say like us—do? And how can we make a
+theoretical framework for it? Much as we have a general model for the process of
+computation—instantiated by something like a Turing machine—we’d like to
+have a general model for the process of observation: a general “observer theory”.
+Central to what we think of as an observer is the notion that the observer will take
+the raw complexity of the world and extract from it some reduced representation
+suitable for a finite mind. There might be zillions of photons impinging on our
+eyes, but all we extract is the arrangement of objects in a visual scene. Or there
+might be zillions of gas molecules impinging on a piston, yet all we extract is the
+overall pressure of the gas.
+Contents
+ 
+  ≡     
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 1/35
+
+===== PAGE 2 =====
+
+In the end, we can think of it fundamentally as being about equivalencing. There
+are immense numbers of different individual configurations for the photons or
+the gas molecules—that are all treated as equivalent by an observer who’s just
+picking out the particular features needed for some reduced representation.
+There’s in a sense a certain duality between computation and observation. In
+computation one’s generating new states of a system. In observation, one’s
+equivalencing together different states.
+That equivalencing must in the end be implemented “underneath” by
+computation. But in observer theory what we want to do is just characterize the
+equivalencing that’s achieved. For us as observers it might in practice be all about
+how our senses work, what our biological or cultural nature is—or what
+technological devices or structures we’ve built. But what makes a coherent
+concept of observer theory possible is that there seem to be general, abstract
+characterizations that capture the essence of different kinds of observers.
+It’s not immediately obvious that anything suitable for a finite mind could ever be
+extracted from the complexity of the world. And indeed the Principle of
+Computational Equivalence implies that computational irreducibility (and its
+multicomputational generalization) will be ubiquitous. But within computational
+irreducibility there must always be slices of computational reducibility. And it’s
+these slices of reducibility that an observer must try to pick out—and that
+ultimately make it possible for a finite mind to develop a “useful narrative” about
+what happens in the world, that allows it to make decisions, predictions, and so
+on.
+How “special” is what an observer does? At its core it’s just about taking a large
+set of possible inputs, and returning a much smaller set of possible outputs. And
+certainly that’s a conceptual idea that’s appeared in many fields under many
+different names: a contractive mapping, reduction to canonical form, a classifier,
+an acceptor, a forgetful functor, evolving to an attractor, extracting statistics,
+model fitting, lossy compression, projection, phase transitions, renormalization
+group transformations, coarse graining and so on. But here we want to think not
+about what’s “mathematically describable”, but instead about what in general is
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 2/35
+
+===== PAGE 3 =====
+
+actually implemented—say by our senses, our measuring devices, or our ways of
+analyzing things.
+At an ultimate level, everything that happens can be thought of as being captured
+by the ruliad—the unique object that emerges as the entangled limit of all
+possible computations. And in a vast generalization of ideas like that our brains—
+like any other material thing—are made of atoms, so too any observer must be
+embedded as some kind of structure within the ruliad. But a key concept of
+observer theory is that it’s possible to make conclusions about an observer’s
+impression of the world just by knowing about the capabilities—and assumptions
+—of the observer, without knowing in detail what the observer is “like inside”.
+And so it is, for example, that in our Physics Project we seem to be able to derive
+—essentially from the structure of the ruliad—the core laws of twentieth-century
+physics (general relativity, quantum mechanics and the Second Law) just on the
+basis of two features of us as observers: that we’re computationally bounded, and
+that we believe we’re persistent in time (even though “underneath” we’re made of
+different atoms of space at every successive moment). And we can expect that if
+we were to include other features of us as observers (for example, that we believe
+there are persistent objects in the world, or that we believe we have free will) then
+we’d be able to derive more aspects of the universe as we experience it—or of
+natural laws we attribute to it.
+But the notion of observers—and observer theory—isn’t limited purely to
+“physical observers”. It applies whenever we try to “get an impression” of
+something. And so, for example, we can also operate as “mathematical
+observers”, sampling the ruliad to build up conclusions about mathematical laws.
+Some features of us as physical observers—like the computational boundedness
+associated with the finiteness of our minds—inevitably carry over to us as
+mathematical observers. But other features do not. But the point of observer
+theory is to provide a general framework in which we can characterize observers
+—and then see the consequences of those characterizations for the impressions or
+conclusions observers will form.
+The Operation of Observers
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 3/35
+
+===== PAGE 4 =====
+
+As humans we have senses like sight, hearing, touch, taste, smell and
+balance. And through our technology we also have access to a few
+thousand other kinds of measurements. So how basically do all these
+work?
+The vast majority in effect aggregate a large number of small inputs to generate
+some kind of “average” output—which in the case of measurements is often
+specified as a (real) number. In a few cases, however, there’s instead a discrete
+choice between outputs that’s made on the basis of whether the total input
+exceeds a threshold (think: distributed consensus schemes, weighing balances,
+etc.)
+But in all cases what’s fundamentally happening is that lots of different input
+configurations are all being equivalenced—or, more operationally, the dynamics
+of the system essentially make all equivalenced states evolve to the same
+“attractor state”.
+As an example, let’s consider measuring the pressure of a gas. There are various
+ways to do this. But a very direct one is just to have a piston, and see how much
+force is exerted by the gas on this piston. So where does this force come from? At
+the lowest level it’s the result of lots of individual molecules bouncing off the
+surface of the piston, each transferring a tiny amount of momentum to it. If we
+looked at the piston at an atomic scale, we’d see it temporarily deform from each
+molecular impact. But the crucial point is that at a large scale the piston moves
+together, as a single rigid object—aggregating the effects of all those individual
+molecular impacts.
+But why does it work this way? Essentially it’s because the intermolecular forces
+inside the piston are much stronger than the forces associated with molecules in
+the gas. Or, put more abstractly, there’s more coupling and coherence “inside the
+observer” than between the observer and what it’s observing.
+We see the same basic pattern over and over again. There’s some form of
+transduction that couples the individual elements of what’s being observed to the
+observer. Then “within the observer” there’s something that in essence
+aggregates all these small effects. Sometimes that aggregation is “directly
+numerical”, as in the addition of lots of small momentum transfers. But
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 4/35
+
+===== PAGE 5 =====
+
+sometimes it’s instead more explicitly like evolution to one attractor rather than
+another.
+Consider, for example, the case of vision. An array of photons fall on the
+photoreceptor cells on our retinas, generating electrical signals transmitted
+through nerve fibers to our brains. Within the brain there’s then effectively a
+neural net that evolves to different attractors depending on what one’s looking at.
+Most of the time a small change in input image won’t affect what attractor one
+evolves to. But—much like with a weighing balance—there’s an “edge” at which
+even a small change can lead to a different output.
+One can go through lots of different types of sensory systems and measuring
+devices. But the basic outline seems to always be the same. First, there’s a
+coupling between what is being sensed or measured and the thing that’s doing
+the sensing or measuring. Quite often that coupling involves transducing from
+one physical form to another—say from light to electricity, or from force to
+position. Sometimes then the crucial step of equivalencing different detailed
+inputs is achieved by simple “numerical aggregation”, most often by
+accumulation of objects (atoms, raindrops, etc.) or physical effects (forces,
+currents, etc.). But sometimes the equivalencing is instead achieved by a more
+obviously dynamical process.
+It could amount to simple amplification, in which, say, the presence of a small
+element of input (say an individual particle) “tips over” some metastable system
+so that it goes into a certain final state. Or it could be more like a neural net
+where there’s a more complicated translation defined by hard-to-describe
+borders between basins of attraction leading to different attractors.
+But, OK, so what’s the endpoint of a process of observation? Ultimately for us
+humans it’s an impression created in our minds. Of course that gets into lots of
+slippery philosophical issues. Yes, each of us has an “inner experience” of what’s
+going on in our mind. But anything else is ultimately an extrapolation. We make
+the assumption that other human minds also “see what we see”, but we can never
+“feel it from the inside”.
+We can of course make increasingly detailed measurements—say of neural
+activity—to see how similar what’s going on is between one brain and another.
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 5/35
+
+===== PAGE 6 =====
+
+But as soon as there’s the slightest structural—or situational—difference between
+the brains, we really can’t say exactly how their “impressions” will compare.
+But for our purposes in constructing a general “observer theory” we’re basically
+going to make the assumption (or, in effect, “philosophical approximation”) that
+whenever a system does enough equivalencing, that’s tantamount to it “acting
+like an observer”, because it can then act as a “front end” that takes the
+“incoherent complexity of the world” and “collimates it” to the point where a
+mind will derive a definite impression from it.
+Of course, there’s still a lot of subtlety here. There has to be “just enough
+equivalencing” and not too much. For example, if all inputs were always
+equivalenced to the same output, there’d be nothing useful observed. And in the
+end there’s somehow got to be some kind of match between the compression of
+input achieved by equivalencing, and the “capacity” of the mind that’s ultimately
+deriving an impression from it.
+A crucial feature of anything that can reasonably be called a mind is that
+“something’s got to be going on in there”. It can’t be, for example, that the
+internal state of the system is fixed. There has to be some internal dynamics—
+some computational process that we can identify as the ongoing operation of the
+mind.
+At an informational level we might say that there has to be more information
+processing going on inside than there is flow of information from the outside. Or,
+in other words, if we’re going to be meaningful “observers like us” we can’t just be
+bombarded by input we don’t process; we have to have some capability to “think
+about what we’re seeing”.
+All of this comes back to the idea that a crucial feature of us as observers is that
+we are computationally bounded. We do computation; that’s why we can have an
+“inner sense of things going on”. But the amount of computation we do is tiny
+compared to the computation going on in the world around us. Our experience
+represents a heavily filtered version of “what’s happening outside”. And the
+essence of “being an observer like us” is that we’re effectively doing lots of
+equivalencing to get to that filtered version.
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 6/35
+
+===== PAGE 7 =====
+
+But can we imagine a future in which we “expand our minds”? Or perhaps
+encounter some alien intelligence with a fundamentally “less constrained mind”?
+Well, at some point there’s an issue with this. Because in a sense the idea that we
+have a coherent existence relies on us having “limited minds”. For without such
+constraints there wouldn’t be a coherent “self” that we could identify—with
+coherent inner experience.
+Let’s say we’re shown some system—say in nature—“from the outside”. Can we
+tell if “there’s an observer in there”? Ultimately not, because in a sense we’d have
+to be “inside that observer” and be able to experience the impression of the world
+that it’s getting. But in much the same way as we extrapolate to believing that,
+say, other human minds are experiencing things like we’re experiencing, so also
+we can potentially extrapolate to say what we might think of as an observer.
+And the core idea seems to be that an “observer” should be a subsystem whose
+“internal states” are affected by the rest of the system, but where many “external
+states” lead to the same internal state—and where there is rich dynamics “within
+the observer” that in effect operates only on its internal states. Ultimately—
+following the Principle of Computational Equivalence—both the outside and the
+inside of the “observer subsystem” can be expected to be equivalent in the
+computations they’re performing. But the point is that the coupling from outside
+the subsystem to inside effectively “coarse grains” what’s outside, so that the
+“inner computation” is operating on a much-reduced set of elements.
+Why should any such “observer subsystems” exist? Presumably at some level it’s
+inevitable from the presence of pockets of computational reducibility within
+arbitrary computationally irreducible systems. But more important for us is that
+our very existence—and the possibility of our coherent inner experience—
+depends on us “operating as observers”. And—almost as a “self-fulfilling
+prophecy”—our behavior tends to perpetuate our ability to successfully do this.
+For example, we can think of us as choosing to put ourselves in situations and
+environments where we can “predict what’s going to happen” well enough to
+“survive as observers”. (At a mundane practical level we might do this by not
+living in places subject to unpredictable natural forces—or by doing things like
+building ourselves structures that shelter us from those forces.)
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 7/35
+
+===== PAGE 8 =====
+
+We’ve talked about observers operating by compressing the complexities of the
+world to “inner impressions” suitable for finite minds. And in typical situations
+that we describe as perception and measurement, the main way this happens is
+by fairly direct equivalencing of different states. But in a sense there’s a higher-
+level story that relies on formalization—and in essence computation—and that’s
+what we usually call “analysis”.
+Let’s say we have some intricate structure—perhaps some nested, fractal pattern.
+A direct rendering of all the pixels in this pattern ultimately won’t be something
+well suited for a “finite mind”. But if we gave rules—or a program—for generating
+the pattern we’d have a much more succinct representation of it.
+But now there’s a problem with computational irreducibility. Yes, the rules
+determine the pattern. But to get from these rules to the actual pattern can
+require an irreducible amount of computation. And to “reverse engineer the
+pattern” to find the rules can require even more computation.
+Yes, there are particular cases—like repetitive and simple nested patterns—where
+there’s enough immediate computational reducibility that a computationally
+bounded system (or observer) can fairly easily “do the analysis” and “get the
+compression”. But in general it’s hard. And indeed in a sense it’s the whole
+mission of science to pick away at the problem, and try to find more ways to
+“reduce the complexities of the world” to “human-level narratives”.
+Computational irreducibility limits the extent to which this can be successful. But
+the inevitable existence of pockets of reducibility even within computational
+irreducibility guarantees that progress can always in principle be made. As we
+invent more kinds of measuring devices we can extend our domain as observers.
+And the same is true when we invent more methods of analysis, or identify more
+principles in science.
+But the overall picture remains the same: what’s crucial to “being an observer” is
+equivalencing many “states of the world”, either through perceiving or measuring
+only specific aspects of them, or through identifying “simplified narratives” that
+capture them. (In effect, perception and measurement tend to do “lossy
+compression”; analysis is more about “lossless compression” where the
+11/29/25, 3:08 AM Observer Theory—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2023/12/observer-theory/ 8/35

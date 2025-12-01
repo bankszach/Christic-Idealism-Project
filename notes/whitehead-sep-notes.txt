@@ -1,0 +1,196 @@
+Title
+-----
+- Nicholas Griffin & Andrew Irvine et al., “Alfred North Whitehead”, *Stanford Encyclopedia of Philosophy* (1996; substantive revision 2022).
+- Local copy: `Alfred North Whitehead (Stanford Encyclopedia of Philosophy).pdf` (text: `Alfred-Whitehead-SEP.txt`).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Main purpose: provide a clear, historically grounded snapshot of Whitehead’s development and his mature **process metaphysics** so we can:
+  - justify using “process” and “internally related Whole” language,
+  - see how far our “Whole and slices” ontology aligns with or departs from Whitehead,
+  - identify which Whiteheadian ideas we explicitly adopt or reject (e.g., occasions vs slices, God’s role, creativity).
+- We will primarily mine:
+  - sections on **physics**, **metaphysics**, and **religion**,
+  - Whitehead’s critique of “simple location” and scientific materialism,
+  - his emphasis on events/processes and internal relations rather than isolated substances.
+
+High-level structure of the SEP entry
+-------------------------------------
+- 1. Life and Works
+  - Biographical overview: Cambridge mathematician and logician → London period (physics, philosophy of science, education) → Harvard metaphysician.
+  - Key works:
+    - *Principia Mathematica* (with Russell) – logicism, foundations of mathematics.
+    - Later major works: *Science and the Modern World* (1925), *Process and Reality* (1929), *Religion in the Making* (1926), *Adventures of Ideas* (1933), *Modes of Thought* (1938).
+  - No “school” during his lifetime, but major posthumous influence in process philosophy and process theology.
+- 2. Mathematics and Logic
+  - Early work in universal algebra and mathematical logic; collaboration with Russell on logicism.
+  - Distinctive form of logicism, less purely “from within logic” than Frege’s:
+    - Whitehead/Russell attend to the structure of pre-logicized mathematics and reconstruct branches with attention to their topic-specific features.
+  - Whitehead values mathematical intuition and pattern recognition; sees symbolic logic as a **tool** for articulating patterns, not a replacement for intuition.
+- 3. Physics
+  - Engagement with Newtonian mechanics, electromagnetism, relativity; criticism of scientific materialism.
+  - Diagnoses the **“barren”** combination of:
+    - Newton’s world of matter-in-motion with no internal meaning or value.
+    - Hume’s skepticism about causal necessity and induction.
+  - Argues that:
+    - Newton’s concept of **simple location** (isolated bits of matter with definite positions in space-time) is invalid for modern physics.
+    - Electromagnetism shows that events and fields are **non-locally related**; each event depends on and affects a vast region of space-time.
+    - Modern physics points toward a universe of **activity and process** rather than static, self-contained particles.
+- 4. Philosophy of Science
+  - Develops a critique of **scientific materialism**:
+    - Science modeled as mere description of succession fails to provide meaning, value, or reasons for its formulas.
+    - Pure sense-perception (in a Humean/positivist style) is too narrow; it omits key features of experience.
+  - Emphasizes that scientific abstraction is powerful but partial; we must reconnect it with a richer account of experience and causality.
+- 5. Philosophy of Education
+  - Less central for our project, but echoes:
+    - importance of **creative advance**,
+    - integration of different modes of thought (scientific, aesthetic, moral).
+- 6. Metaphysics
+  - Mature process metaphysics in *Process and Reality*:
+    - Reality is composed of **“actual occasions”** (events), not enduring substances.
+    - Each occasion is a momentary process of becoming, internally related to the whole past of the universe.
+    - Emphasis on **internal relations**: entities are constituted by their relations, not externally related bits.
+    - World is characterized by **creativity** (ongoing process of becoming) and **concrescence** (process by which many become one in each occasion).
+  - Rejects substance-ontology; proposes a relational, event-based ontology.
+- 7. Religion
+  - Develops a picture of God as:
+    - not a coercive external agent, but a **“consequent”** and **“primordial”** nature:
+      - primordial: ordering of possibilities (eternal objects),
+      - consequent: receptacle of the world’s concrete achievements.
+    - intimately linked with the world’s process, not wholly separate from it.
+  - Whitehead’s God is:
+    - involved in the world’s creative advance,
+    - affected by the world (not immutable in the classical sense),
+    - provides **aims** (lures for feeling) that orient occasions toward richer forms of value.
+- 8. Influence
+  - Process philosophy and process theology (Hartshorne, Cobb, Griffin, etc.).
+  - Renewed interest via the Edinburgh Critical Edition of his works and publication of Harvard lectures.
+
+Key philosophical themes relevant to Wholeframe
+-----------------------------------------------
+1. Critique of “simple location” and scientific materialism
+   - Modern physics (especially electromagnetism) undermines the idea of self-sufficient material bits:
+     - There are no purely local, isolated entities.
+     - Events and fields are inherently relational and extended.
+   - Whitehead’s lesson:
+     - “There are no essentially self-contained activities within limited regions.”
+     - “Nature is a theatre for the interrelations of activities. All things change, the activities and their interrelations.”
+   - For Wholeframe:
+     - Supports the claim that there is only the Whole, with slices as relational modes, not isolated substances.
+     - Gives scientific-metaphysical backing for rejecting naive materialism and atomism.
+2. Process and event ontology
+   - World as **process**, not static being:
+     - Reality is an ongoing “creative advance.”
+     - Basic units are events/occasions of experience.
+   - Internal relations:
+     - Each actual occasion prehends (feels) the whole past, integrating it into a new unity.
+   - For Wholeframe:
+     - Our **Whole** can be viewed as the total process, with slices as constrained viewpoints on this process.
+     - Our focus on **pattern source** and **training runs** resonates with actual occasions integrating past patterns into new ones.
+3. Experience and perception
+   - Whitehead criticizes a narrow focus on pure sense perception:
+     - Introduces two pure modes of perception:
+       - **Presentational immediacy** (sense-data, immediate spatial perception).
+       - **Causal efficacy** (perception of causal relatedness, the feeling of the past acting on the present).
+     - Our actual perception is a symbolic interplay of these modes.
+   - For Wholeframe:
+     - Our “pattern source” and “attention” can incorporate:
+       - sense-based representations,
+       - deeper, felt causal patterns (how the world impacts us and how we anticipate it).
+     - This aligns with our insistence that most of what matters is non-narrative, embodied, and relational.
+4. Value, meaning, and God
+   - Whitehead insists that:
+     - Scientific description lacking meaning and value is incomplete.
+     - Our experience includes value, purpose, and creativity that must be part of metaphysics.
+   - His God:
+     - Offers a metaphysical anchor for value and directionality (aims).
+   - For Wholeframe:
+     - We can reinterpret:
+       - Whitehead’s God-as-aim into our **lean** (value gradient of the Whole) and **Christ-pattern** as a clearer, personal disclosure of that lean.
+     - We should state explicitly:
+       - Where we agree: reality is value-laden, not neutral; there is a built-in orientation toward richer forms of order.
+       - Where we differ: we treat the **Whole** itself as the ground, and Christ/Spirit as specific modes of its self-expression (Trinity), rather than Whitehead’s dipolar God + world schema.
+
+Explicit connections to Wholeframe sections
+-------------------------------------------
+- Whole / slice ontology
+  - Use Whitehead to support:
+    - rejection of substance-atomism,
+    - embrace of a processual, relational view.
+  - Difference:
+    - Whiteframe uses **slices** (Whole-under-constraints) rather than Whitehead’s actual occasions as basic units.
+    - We may interpret slices as aggregates of many occasions, or as higher-level interfaces.
+- Constraints, pattern source, attention
+  - Whitehead’s emphasis on:
+    - the way each occasion integrates its past (pattern),
+    - the role of subjective aim and feeling.
+  - Can inform:
+    - our view of pattern source as a dynamic integration of past experience,
+    - attention as the lived selection and weighting of relations/prehensions.
+- Lean / value gradient
+  - Whitehead:
+    - world has an inherent drive toward richer, more intense forms of experience (creative advance toward value).
+  - Wholeframe:
+    - “lean” toward coherence, love, relational order.
+  - Use Whitehead to:
+    - show that a value-laden metaphysics is philosophically serious and has precedent,
+    - frame our lean as a Christ-shaped articulation of this value orientation.
+- Christ-pattern and Trinity
+  - SEP entry mainly sets up Whitehead’s process theology background; it doesn’t itself do detailed Christology.
+  - For our purposes:
+    - Whitehead’s process God → conversation partner for:
+      - our **Whole as Father** (ground),
+      - our Christ-pattern (form),
+      - our Spirit-as-attention (movement).
+    - We can contrast:
+      - process theism’s dipolar God-world relation,
+      - our more explicitly Trinitarian, Christ-centered mapping.
+
+How to use this SEP article in `paper/main.tex`
+-----------------------------------------------
+- Early sections (“The Whole and the Slice”)
+  - Cite the SEP article (`whitehead1978process` plus SEP itself) when:
+    - introducing process metaphysics,
+    - rejecting simple location and atomistic materialism,
+    - emphasizing internal relations and activity.
+- Comparative / background section
+  - In `Comparative and Future Directions`, explicitly:
+    - mention process philosophy / Whitehead as a key dialogue partner,
+    - note points of alignment (process, internal relations, value-ladenness),
+    - note divergences (Trinity, Christ, overall structure of the Whole).
+- Footnotes or sidebars
+  - Use short quotes/paraphrases from the SEP overview to:
+    - define “process philosophy,”
+    - summarize the critique of Newton/Hume,
+    - articulate the idea of Nature as “theatre of interrelations.”
+
+Open questions / cautions for our project
+-----------------------------------------
+- Basic units: occasions vs slices
+  - Are we comfortable staying at the level of slices (persons, finite minds), or do we want to echo Whitehead and hint at finer-grained occasions?
+  - For Stage 1, likely best to:
+    - keep “slice” as our central unit,
+    - acknowledge that there may be deeper microstructure but leave that for later.
+- God/Whole relation
+  - Whitehead’s God is within a broader metaphysical system (God + world + creativity).
+  - Our Whole-as-ground may look closer to a panentheistic or idealist monism.
+  - We need to be explicit:
+    - we are inspired by process metaphysics, but we are not offering a straightforward Whiteheadian system.
+- Technical depth
+  - The SEP is dense and references many debates; we should avoid importing technicalities that don’t serve our framework.
+  - Use it mainly to:
+    - legitimize process and internal-relations talk,
+    - anchor our references to *Process and Reality* and related works.
+
+Next steps with this source
+---------------------------
+- Decide which 2–3 Whitehead texts to explicitly cite beyond the SEP:
+  - likely *Process and Reality* and *Science and the Modern World*.
+- In `paper/refs.bib`, ensure:
+  - `whitehead1978process` is present (it is),
+  - optionally add an entry for the SEP article itself as a secondary source.
+- In `paper/main.tex`, revise:
+  - the early metaphysics sections to:
+    - mention process metaphysics and Whitehead as context,
+    - highlight our agreement (process, internal relations, value) and differences (Trinity, Christ, Whole/slice language).
+

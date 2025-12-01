@@ -1,0 +1,206 @@
+Title
+-----
+- Athanasius of Alexandria, *On the Incarnation of the Word*.
+- Local copy: `CHURCH FATHERS_ On the Incarnation of the Word (Athanasius).pdf` (text: `athanasius-on-incarnation.txt`).
+- Translation: Archibald Robertson, in *Nicene and Post-Nicene Fathers*, Second Series, Vol. 4 (New Advent edition).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Theologically anchor our **Christ-pattern** and Trinity mapping in classic Nicene orthodoxy.
+- Provide a rich, primary-text account of:
+  - who Christ is (Word of the Father, true God, true man),
+  - why the incarnation happens (creation, fall, corruption, and the need for renewal),
+  - how the cross and resurrection function (defeat of death, deification, restoration of the image).
+- Key use: ensure our “Whole-as-Christ-under-constraints” and “Christ-pattern in us” stay recognizably Athanasian, not just abstract alignment language.
+
+High-level structure and themes
+-------------------------------
+- 1–3: Introduction and creation doctrine
+  - Presupposes:
+    - creation *ex nihilo* by the Father through the Word,
+    - the Word’s universal providence and power.
+  - Argues against:
+    - Epicurean chance (fortuitous generation, no providence),
+    - Platonic pre-existent matter (God as mere mechanic),
+    - Gnostic/dualistic “other” demiurge (alien creator distinct from Father of Christ).
+  - Affirms:
+    - God created the universe out of nothing through the Word.
+    - Humanity is created in God’s image with a special calling and conditional immortality.
+- Middle sections (not fully quoted in our extract, but known structure)
+  - Humanity’s fall:
+    - turning away from the Word → corruption and death (non-being).
+  - Divine dilemma:
+    - Truth of God’s warning (“you shall die”) vs. God’s goodness and purpose (not to let creation lapse into non-being).
+  - Solution:
+    - the Word himself takes a body from the Virgin, unites it to himself, and:
+      - offers it in death to abolish corruption,
+      - renews the image of God in humanity,
+      - makes himself known to all.
+- Later sections (from our text slice)
+  - Prophetic fulfillment:
+    - virgin birth, star, nations’ hope, suffering servant, crucifixion, descent to Egypt, fall of idols.
+  - Uniqueness of Christ:
+    - no prophet or patriarch fulfills these combined signs (virgin birth, global hope, cross, victory over death).
+  - Second Advent and judgment:
+    - Christ will return in glory to judge all;
+    - resurrection and incorruption for the righteous, fire and outer darkness for the wicked.
+  - Moral/ascetical conclusion:
+    - true understanding of Scripture requires:
+      - an honourable life,
+      - a pure soul,
+      - imitation of the saints.
+
+Key doctrinal points for our framework
+--------------------------------------
+1. Creation through the Word, from nothing
+   - Athanasius insists:
+     - Creation is **not** from pre-existent matter (contra Platonists).
+     - Creation is **not** self-generated or random (contra Epicureans).
+     - Creation is **not** by an alien demiurge (contra Gnostics).
+   - Positive doctrine:
+     - Father creates **out of nothing** (`ex nihilo`) through the Word.
+     - Word is the agent of both creation and providence: “all things are moved by Him, and in Him are quickened.”
+   - For Wholeframe:
+     - We must preserve:
+       - the Word/Christ as the agent of creation, not merely an emergent pattern.
+       - “Whole” should include this dimension: the Whole-as-Father creates through Whole-as-Word.
+2. Human nature and fall
+   - Humanity:
+     - created in God’s image,
+     - capable of participation in divine life,
+     - but not naturally self-sustaining in being.
+   - Fall:
+     - turning away from the Word → corruption, death, and a slide toward non-being.
+   - For Wholeframe:
+     - our talk of **pattern source injuries**, misalignment, and fragmentation can be grounded in:
+       - Athanasius’s language of corruption and death,
+       - humanity’s turn from the Word as the root mis-aim.
+3. The “divine dilemma” and necessity of incarnation
+   - Athanasius’ classic dilemma (in summary):
+     - If God simply ignores the fall:
+       - His truth (the announced penalty of death) is compromised.
+       - Creation lapses into non-being, failing God’s goodness and purpose.
+     - If God annihilates humanity:
+       - His goodness and purpose in creating are frustrated.
+   - Solution:
+     - The Word himself assumes a human body, offers it in death, and renews humanity from within.
+   - For Wholeframe:
+     - This supports the claim that:
+       - the **Christ-pattern** is not just a generic alignment archetype; it is God’s concrete, once-for-all act to resolve a real dilemma in history.
+4. Identity of Christ
+   - Christ is:
+     - the **Word of the Father**, consubstantial with the Father (though NPNF translation predates formal Nicene language, the content is there).
+     - truly human, born of the Virgin, subject to bodily death.
+   - Not merely:
+     - a prophet,
+     - a moral exemplar,
+     - or a created demiurge.
+   - For Wholeframe:
+     - Our **“Whole in the form of a slice without distortion”** language must:
+       - maintain Christ’s full deity and full humanity,
+       - avoid reducing Christ to “just” a highly aligned slice.
+5. Cross and resurrection
+   - Death:
+     - Christ’s death on the cross is central: unique among righteous figures.
+     - He is “Life of all” who hangs on the tree “for the salvation of all.”
+   - Resurrection:
+     - defeat of death and corruption;
+     - evidence that the Word is truly God (since human things cease but the Word abides).
+   - For Wholeframe:
+     - Cross + resurrection are the decisive **training run under maximal constraint**:
+       - the Christ-pattern under maximal pressure,
+       - revealing the Whole’s lean (self-giving love, non-retaliation, enduring coherence in suffering).
+6. Second coming and judgment
+   - Christ will:
+     - return in glory,
+     - judge all according to deeds in the body,
+     - grant kingdom to the righteous and fire/darkness to the wicked.
+   - For Wholeframe:
+     - We must decide:
+       - how literal to be about eschatology in our ontology.
+       - how to talk about judgment and “pattern retention” in ways coherent with Athanasius.
+     - At minimum:
+       - keep the strong sense of moral seriousness, accountability, and ultimate differentiation between alignment and misalignment.
+
+Connections to Wholeframe concepts
+----------------------------------
+1. Whole, Word, and Trinity
+   - Athanasius:
+     - Father creates and saves **through** the Word.
+     - Word is distinct from, yet united with, the Father.
+   - Our mapping:
+     - Father = Whole-as-ground.
+     - Son = Whole-as-form (Word/Christ).
+     - Spirit = Whole-as-attention.
+   - Use Athanasius to:
+     - secure the **Son** side of this mapping: the Word is eternal, divine, and the direct agent of both creation and redemption.
+2. Slices and constraints
+   - Athanasius emphasizes:
+     - the Word assumes a real human body under finite conditions (not an appearance).
+   - For Wholeframe:
+     - we can interpret:
+       - Christ as the Whole under a specific, concrete configuration of constraints (the Jesus slice).
+       - but unlike other slices, this one is without misalignment or distortion.
+3. Pattern source and Christ in us
+   - Athanasius:
+     - speaks in terms of renewal of the image, deification, and moral transformation.
+   - Wholeframe:
+     - “Christ-pattern in us” can be read as:
+       - the Word renewing our pattern source,
+       - re-imaging us to align with divine life, in continuity with Athanasius’s language of deification/renewal.
+4. Evil, corruption, and death
+   - Athanasius’s triad:
+     - evil as turning from God,
+     - corruption as ontological decay,
+     - death as consequence of separation from the Life.
+   - Wholeframe:
+     - “destructive randomness” and fragmentation can be tied to:
+       - this Athanasian picture: misalignment → corruption → slide toward non-being.
+
+How to use this text in `paper/main.tex`
+----------------------------------------
+- Christology section (“Christ Pattern: The Whole in Perfect Alignment”)
+  - Anchor claims about:
+    - Christ as Whole-in-form (Word incarnate),
+    - perfect alignment under human constraints,
+    - salvific role of cross and resurrection.
+  - Add explicit Athanasian citations for:
+    - creation through the Word,
+    - incarnation “for our salvation,”
+    - renewal of creation and image.
+- Trinity mapping section
+  - When mapping Father/Whole, Son/Form, Spirit/Attention:
+    - Cite Athanasius to show:
+      - Son is not merely a mode but the eternal Word, consubstantial with the Father.
+      - our mapping respects classical Christology rather than dissolving it.
+- Religion and aim section
+  - Use Athanasius’s emphasis on:
+    - right worship vs idolatry,
+    - the folly of paganism (Epicurean, Platonic, Gnostic alternatives),
+  - to support:
+    - our “religion as pointer, Christ as target” language.
+
+Open questions / cautions for our project
+-----------------------------------------
+- Risk of over-abstracting Christ
+  - Our alignment language must not:
+    - reduce Christ to a generic spiritual principle,
+    - neglect the concrete historical, bodily, crucified, and risen Lord.
+- Eschatology and judgment
+  - Athanasius’ strong eschatological language needs:
+    - careful translation into our pattern/Whole ontology.
+  - We should:
+    - avoid prematurely softening judgment,
+    - yet think carefully about how “pattern persists / interface dissolves” relates to resurrection and final judgment.
+
+Next steps with this source
+---------------------------
+- In `paper/refs.bib`, ensure:
+  - `athanasius2011incarnation` is present (already there).
+- In `paper/main.tex`, revise:
+  - sections on Christ, cross, resurrection, and Trinity to include Athanasian references and phrasing where appropriate.
+- Keep this text in view when:
+  - we define “Christ-pattern,”
+  - we describe what is unique about Christ among all slices,
+  - we explain how the Spirit installs the Christ-pattern in us.
+

@@ -1,0 +1,139 @@
+Title
+-----
+- Stephen Wolfram, “What If We Had Bigger Brains? Imagining Minds beyond Ours” (2025).
+- Local files: `What If We Had Bigger Brains_ Imagining Minds beyond Ours—Stephen Wolfram Writings.pdf`, partial text in `wolfram-bigger-brains.txt`.
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Explores how cognitive capabilities scale with brain size / number of neurons (or equivalent AI parameters), using Wolfram’s computational framework.
+- Key for:
+  - deepening our account of **pattern source** and **attention** as concept-handling and reducibility-exploitation processes,
+  - thinking about slices with much greater capacity than human minds (e.g., “bigger-brain” slices or future AIs),
+  - clarifying how **concept space** and abstraction interact with computational irreducibility.
+
+Core ideas (from the excerpt)
+-----------------------------
+1. Question of scale in brains and AI
+   - Humans: ~100 billion neurons; cats: ~100 million.
+   - At human scale:
+     - rich **compositional language** is possible.
+   - Below that (cat scale):
+     - it appears not to be.
+   - Question:
+     - what becomes possible at much higher scales (e.g., 100 trillion neurons or analogously huge AIs)?
+     - would these capabilities even be intelligible to us?
+
+2. Brains vs “computation in general”
+   - For abstract computation:
+     - Principle of Computational Equivalence:
+       - once past a low threshold, systems can be maximally sophisticated; “more capacity” doesn’t change theoretical computability.
+   - But brains are special:
+     - they are not arbitrary computations.
+     - they specialize in:
+       - ingesting vast **sensory data**,
+       - producing decisions about **what to do next**.
+
+3. Computational irreducibility and pockets of reducibility
+   - The world:
+     - full of **computational irreducibility**:
+       - often the only way to know what happens is to simulate each step.
+   - Yet:
+     - within irreducible systems, there are **inevitably infinite pockets of computational reducibility**.
+   - Brains:
+     - exploit these pockets to “jump ahead” and avoid simulating everything.
+     - “navigation” of the world depends on finding and using these pockets.
+   - Science/technology:
+     - can be viewed as progressive discovery of more such pockets.
+
+4. Concepts, language, and compression
+   - Brains:
+     - compress world complexity and extract **features** associated with reducible pockets.
+   - Concepts and language:
+     - symbolic labels (e.g., “rock”) compress many detailed instances.
+   - Human languages:
+     - ~30,000 common words.
+     - possibly linked to brain capacity constraints.
+   - Scaling question:
+     - bigger brains could in principle handle far more words/concepts (millions or more).
+     - but: what would those extra concepts be about?
+     - we currently invent concepts that match what we care to talk about.
+
+5. Concept space, abstraction, and closure
+   - Do we have a “closed” set of concepts?
+     - Not really, because:
+       - computational irreducibility of the world ensures new phenomena will appear that break current concept systems.
+   - Why isn’t concept count just exploding?
+     - **Abstraction**:
+       - groups specific items (tiger, lion, etc.) under general categories (“big cats”).
+       - allows consistent higher-level reasoning (“all big cats have …”).
+   - Pockets-of-reducibility view:
+     - concepts correspond to pockets;
+     - abstraction reflects **networks of pockets** that can be treated collectively.
+     - such networks can themselves be irreducible, with higher-order reducible pockets.
+
+6. Neural nets and emergent concepts (teaser from excerpt)
+   - (Hinted) Modern neural nets:
+     - internal activation patterns form **feature spaces**.
+     - clusters correspond to emergent “concept-like” structures discovered through training.
+   - These mirror:
+     - how brains might carve up reducibility pockets and create concept networks.
+
+Connections to Wholeframe ontology
+----------------------------------
+1. Pattern source as concept network
+   - Pattern source:
+     - not just emotional and behavioral tendencies,
+     - but also a structured network of **concepts and abstractions**.
+   - Using Wolfram’s picture:
+     - pattern source ≈ internalized map of reducible pockets in the slice’s experienced world.
+     - concepts = labels for these pockets;
+     - abstractions = higher-order clusters of pockets.
+
+2. Attention as navigation of concept space
+   - Attention:
+     - selects which concepts/pockets to activate and combine at any moment.
+   - Bigger-brain slices:
+     - could:
+       - hold many more pockets in mind,
+       - navigate much larger concept spaces,
+       - perform more complex compressions and abstractions.
+   - This suggests:
+     - a spectrum of slices:
+       - from low-capacity systems (few concepts, simple navigation),
+       - to high-capacity systems (rich concept networks, powerful abstraction).
+
+3. Slice limits vs Whole
+   - Whole:
+     - not limited by neuron count; effectively includes all possible concept networks.
+   - Slices:
+     - finite approximations, limited by biological or implementation constraints.
+   - Training runs:
+     - each life explores and stabilizes a tiny region of concept space,
+     - and writes its “conceptual pattern” into the Whole.
+
+4. Future minds and Christ-pattern
+   - Bigger-brain/AI minds:
+     - could embody much richer concept structures and exploration of reducible pockets.
+   - Question for our ontology:
+     - how does **alignment with the Whole’s lean** look for minds that operate in far larger concept spaces and hold radically more pattern?
+   - Christ-pattern:
+     - remains:
+       - the disclosed form of perfect alignment under human-like constraints.
+     - For larger minds:
+       - alignment may include:
+         - deeper recognition of reducibility/irreducibility structure,
+         - richer loving orchestration of more extensive pattern spaces.
+
+How to use this source
+----------------------
+- As background for:
+  - expansions of the slice concept beyond human minds (including future AIs).
+  - more detailed discussions of:
+    - pattern source as concept network,
+    - attention as concept-space navigation,
+    - limitations and expansions of mind capacity.
+- In Stage 1:
+  - likely keep references light:
+    - mention that there are plausible computational accounts of concept and abstraction scaling (citing Wolfram’s work),
+    - leave full treatment of “superhuman slices” for later stages.
+

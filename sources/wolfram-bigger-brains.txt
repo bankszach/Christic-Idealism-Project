@@ -1,0 +1,261 @@
+
+
+===== PAGE 1 =====
+
+RECENT |  |CATEGORIES
+What If We Had Bigger Brains? Imagining Minds beyond Ours PODCAST VIDEO
+What If We Had Bigger Brains?
+Imagining Minds beyond Ours
+May 21, 2025
+Cats Don’t Talk
+We humans have perhaps 100 billion neurons in our brains. But what if we had
+many more? Or what if the AIs we built effectively had many more? What kinds
+of things might then become possible? At 100 billion neurons, we know, for
+example, that compositional language of the kind we humans use is possible. At
+the 100 million or so neurons of a cat, it doesn’t seem to be. But what would
+become possible with 100 trillion neurons? And is it even something we could
+imagine understanding?
+My purpose here is to start exploring such questions, informed by what we’ve
+seen in recent years in neural nets and LLMs, as well as by what we now know
+about the fundamental nature of computation, and about neuroscience and the
+operation of actual brains (like the one that’s writing this, imaged here):
+Contents
+ 
+  ≡     
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 1/38
+
+===== PAGE 2 =====
+
+One suggestive point is that as artificial neural nets have gotten bigger, they seem
+to have successively passed a sequence of thresholds in capability:
+So what’s next? No doubt there’ll be things like humanoid robotic control that
+have close analogs in what we humans already do. But what if we go far beyond
+the ~10 connections that our human brains have? What qualitatively new kinds
+of capabilities might there then be?
+If this was about “computation in general” then there wouldn’t really be much to
+talk about. The Principle of Computational Equivalence implies that beyond
+some low threshold computational systems can generically produce behavior that
+corresponds to computation that’s as sophisticated as it can ever be. And indeed
+that’s the kind of thing we see both in lots of abstract settings, and in the natural
+world.
+But the point here is that we’re not dealing with “computation in general”. We’re
+dealing with the kinds of computations that brains fundamentally do. And the
+essence of these seems to have to do with taking in large amounts of sensory data
+and then coming up with what amount to decisions about what to do next.
+14
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 2/38
+
+===== PAGE 3 =====
+
+It’s not obvious that there’d be any reasonable way to do this. The world at large
+is full of computational irreducibility—where the only general way to work out
+what will happen in a system is just to run the underlying rules for that system
+step by step and see what comes out:
+And, yes, there are plenty of questions and issues for which there’s essentially no
+choice but to do this irreducible computation—just as there are plenty of cases
+where LLMs need to call on our Wolfram Language computation system to get
+computations done. But brains, for the things most important to them, somehow
+seem to routinely manage to “jump ahead” without in effect simulating every
+detail. And what makes this possible is the fundamental fact that within any
+system that shows overall computational irreducibility there must inevitably be
+an infinite number of “pockets of computational reducibility”, in effect associated
+with “simplifying features” of the behavior of the system.
+It’s these “pockets of reducibility” that brains exploit to be able to successfully
+“navigate” the world for their purposes in spite of its “background” of
+computational irreducibility. And in these terms things like the progress of
+science (and technology) can basically be thought of as the identification of
+progressively more pockets of computational reducibility. And we can then
+imagine that the capabilities of bigger brains could revolve around being able to
+“hold in mind” more of these pockets of computational reducibility.
+We can think of brains as fundamentally serving to “compress” the complexity of
+the world, and extract from it just certain features—associated with pockets of
+reducibility—that we care about. And for us a key manifestation of this is the idea
+of concepts, and of language that uses them. At the level of raw sensory input we
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 3/38
+
+===== PAGE 4 =====
+
+might see many detailed images of some category of thing—but language lets us
+describe them all just in terms of one particular symbolic concept (say “rock”).
+In a rough first approximation, we can imagine that there’s a direct
+correspondence between concepts and words in our language. And it’s then
+notable that human languages all tend to have perhaps 30,000 common words
+(or word-like constructs). So is that scale the result of the size of our brains? And
+could bigger brains perhaps deal with many more words, say millions or more?
+“What could all those words be about?” we might ask. After all, our everyday
+experience makes it seem like our current 30,000 words are quite sufficient to
+describe the world as it is. But in some sense this is circular: we’ve invented the
+words we have because they’re what we need to describe the aspects of the world
+we care about, and want to talk about. There will always be more features of, say,
+the natural world that we could talk about. It’s just that we haven’t chosen to
+engage with them. (For example, we could perfectly well invent words for all the
+detailed patterns of clouds in the sky, but those patterns are not something we
+currently feel the need to talk in detail about.)
+But given our current set of words or concepts, is there “closure” to it? Can we
+successfully operate in a “self-consistent slice of concept space” or will we always
+find ourselves needing new concepts? We might think of new concepts as being
+associated with intellectual progress that we choose to pursue or not. But insofar
+as the “operation of the world” is computationally irreducible it’s basically
+inevitable that we’ll eventually be confronted with things that cannot be
+described by our current concepts.
+So why is it that the number of concepts (or words) isn’t just always increasing? A
+fundamental reason is abstraction. Abstraction takes collections of potentially
+large numbers of specific things (“tiger”, “lion”, …) and allows them to be
+described “abstractly” in terms of a more general thing (say, “big cats”). And
+abstraction is useful if it’s possible to make collective statements about those
+general things (“all big cats have…”), in effect providing a consistent “higher-
+level” way of thinking about things.
+If we imagine concepts as being associated with particular pockets of reducibility,
+the phenomenon of abstraction is then a reflection of the existence of networks of
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 4/38
+
+===== PAGE 5 =====
+
+these pockets. And, yes, such networks can themselves show computational
+irreducibility, which can then have its own pockets of reducibility, etc.
+So what about (artificial) neural nets? It’s routine to “look inside” these, and for
+example see the possible patterns of activation at a given layer based on a range
+of possible (“real-world”) inputs. We can then think of these patterns of
+activation as forming points in a “feature space”. And typically we’ll be able to see
+clusters of these points, which we can potentially identify as “emergent concepts”
+that we can view as having been “discovered” by the neural net (or rather, its
+training). Normally there won’t be existing words in human languages that
+correspond to most of these concepts. They represent pockets of reducibility, but
+not ones that we’ve identified, and that are captured by our typical 30,000 or so
+words. And, yes, even in today’s neural nets, there can easily be millions of
+“emergent concepts”.
+But will these be useful abstractions or concepts, or merely “incidental examples
+of compression” not connected to anything else? The construction of neural nets
+implies that a pattern of “emergent concepts” at one layer will necessarily feed
+into the next layer. But the question is really whether the concept can somehow
+be useful “independently”—not just at this particular place in the neural net.
+And indeed the most obvious everyday use for words and concepts—and language
+in general—is for communication: for “transferring thoughts” from one mind to
+another. Within a brain (or a neural net) there are all kinds of complicated
+patterns of activity, different in each brain (or each neural net). But a
+fundamental role that concepts, words and language play is to define a way to
+“package up” certain features of that activity in a form that can be robustly
+transported between minds, somehow inducing “comparable thoughts” in all of
+them.
+The transfer from one mind to another can never be precise: in going from the
+pattern of activity in one brain (or neural net) to the pattern of activity in
+another, there’ll always be translation involved. But—at least up to a point—one
+can expect that the “more that’s said” the more faithful a translation can be.
+But what if there’s a bigger brain, with more “emergent concepts” inside? Then to
+communicate about them at a certain level of precision we might need to use
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 5/38
+
+===== PAGE 6 =====
+
+more words—if not a fundamentally richer form of language. And, yes, while dogs
+seem to understand isolated words (“sit”, “fetch”, …), we, with our larger brains,
+can deal with compositional language in which we can in effect construct an
+infinite range of meanings by combining words into phrases, sentences, etc.
+At least as we currently imagine it, language defines a certain model of the world,
+based on some finite collection of primitives (words, concepts, etc.). The
+existence of computational irreducibility tells us that such a model can never be
+complete. Instead, the model has to “approximate things” based on the “network
+of pockets of reducibility” that the primitives in the language effectively define.
+And insofar as a bigger brain might in essence be able to make use of a larger
+network of pockets of reducibility, it can then potentially support a more precise
+model of the world.
+And it could then be that if we look at such a brain and what it does, it will
+inevitably seem closer to the kind of “incomprehensible and irreducible
+computation” that’s characteristic of so many abstract systems, and systems in
+nature. But it could also be that in being a “brain-like construct” it’d necessarily
+tap into computational reducibility in such a way that—with the formalism and
+abstraction we’ve built—we’d still meaningfully be able to talk about what it can
+do.
+At the outset we might have thought any attempt for us to “understand minds
+beyond ours” would be like asking a cat to understand algebra. But somehow the
+universality of the concepts of computation that we now know—with their ability
+to address the deepest foundations of physics and other fields—makes it seem
+more plausible we might now be in a position to meaningfully discuss minds
+beyond ours. Or at least to discuss the rather more concrete question of what
+brains like ours, but bigger than ours, might be able to do.
+How Brains Seem to Work
+As we’ve mentioned, at least in a rough approximation, the role of brains is to
+turn large amounts of sensory input into small numbers of decisions about what
+to do. But how does this happen?
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 6/38
+
+===== PAGE 7 =====
+
+Human brains continually receive input from a few million “sensors”, mostly
+associated with photoreceptors in our eyes and touch receptors in our skin. This
+input is processed by a total of about 100 billion neurons, each responding in a
+few milliseconds, and mostly organized into a handful of layers. There are
+altogether perhaps 100 trillion connections between neurons, many quite long
+range. At any given moment, a few percent of neurons (i.e. perhaps a billion) are
+firing. But in the end, all that activity seems to feed into particular structures in
+the lower part of the brain that in effect “take a majority vote” a few times a
+second to determine what to do next—in particular with the few hundred
+“actuators” our bodies have.
+This basic picture seems to be more or less the same in all higher animals. The
+total number of neurons scales roughly with the number of “input sensors” (or, in
+a first approximation, the surface area of the animal—i.e. volume—which
+determines the number of touch sensors). The fraction of brain volume that
+consists of connections (“white matter”) as opposed to main parts of neurons
+(“gray matter”) increases as a power of the number of neurons. The largest brains
+—like ours—have a roughly nested pattern of folds that presumably reduce
+average connection lengths. Different parts of our brains have characteristic
+functions (e.g. motor control, handling input from our eyes, generation of
+language, etc.), although there seems to be enough universality that other parts
+can usually learn to take over if necessary. And in terms of overall performance,
+animals with smaller brains generally seem to react more quickly to stimuli.
+So what was it that made brains originally arise in biological evolution? Perhaps
+it had to do with giving animals a way to decide where to go next as they moved
+around. (Plants, which don’t move around, don’t have brains.) And perhaps it’s
+because animals can’t “go in more than one direction at once” that brains seem to
+have the fundamental feature of generating a single stream of decisions. And, yes,
+this is probably why we have a single thread of “conscious experience”, rather
+than a whole collection of experiences associated with the activities of all our
+neurons. And no doubt it’s also what we leverage in the construction of language
+—and in communicating through a one-dimensional sequence of tokens.
+It’s notable how similar our description of brains is to the basic operation of large
+language models: an LLM processes input from its “context window” by feeding it
+2/3
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 7/38
+
+===== PAGE 8 =====
+
+through large numbers of artificial neurons organized in layers—ultimately
+taking something like a majority vote to decide what token to generate next.
+There are differences, however, most notably that whereas brains routinely
+intersperse learning and thinking, current LLMs separate training from
+operation, in effect “learning first” and “thinking later”.
+But almost certainly the core capabilities of both brains and neural nets don’t
+depend much on the details of their biological or architectural structure. It
+matters that there are many inputs and few outputs. It matters that there’s
+irreducible computation inside. It matters that the systems are trained on the
+world as it is. And, finally, it matters how “big” they are, in effect relative to the
+“number of relevant features of the world”.
+In artificial neural nets, and presumably also in brains, memory is encoded in the
+strengths (or “weights”) of connections between neurons. And at least in neural
+nets it seems that the number of tokens (of textual data) that can reasonably be
+“remembered” is a few times the number of weights. (With current methods, the
+number of computational operations of training needed to achieve this is roughly
+the product of the total number of weights and the total number of tokens.) If
+there are too few weights, what happens is that the “memory” gets fuzzy, with
+details of the fuzziness reflecting details of the structure of the network.
+But what’s crucial—for both neural nets and brains—is not so much to remember
+specifics of training data, but rather to just “do something reasonable” for a wide
+range of inputs, regardless of whether they’re in the training data. Or, in other
+words, to generalize appropriately from training data.
+But what is “appropriate generalization”? As a practical matter, it tends to be
+“generalization that aligns with what we humans would do”. And it’s then a
+remarkable fact that artificial neural nets with fairly simple architectures can
+successfully do generalizations in a way that’s roughly aligned with human
+brains. So why does this work? Presumably it’s because there are universal
+features of “brain-like systems” that are close enough between human brains and
+neural nets. And once again it’s important to emphasize that what’s happening in
+both cases seems distinctly weaker than “general computation”.
+11/29/25, 3:08 AM What If We Had Bigger Brains? Imagining Minds beyond Ours—Stephen Wolfram Writings
+https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/ 8/38

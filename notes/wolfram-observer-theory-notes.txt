@@ -1,0 +1,132 @@
+Title
+-----
+- Stephen Wolfram, “Observer Theory” (2023).
+- Local files: `Observer Theory—Stephen Wolfram Writings.pdf`, partial text in `wolfram-observer-theory.txt`.
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Provides a general, computation-based account of **observers**:
+  - what they do (equivalencing, reduction, coarse-graining),
+  - how their assumptions and limitations shape the laws they infer.
+- Directly relevant to:
+  - our notion of **slice** (Whole under constraints),
+  - **attention** as equivalencing and feature selection,
+  - the dependence of apparent laws/structures on observer type.
+
+Core ideas (from the excerpt)
+-----------------------------
+1. Observation as reduced representation via equivalencing
+   - Observation/perception/measurement/analysis:
+     - all about taking the world “as it is” and deriving an **impression** in a finite mind.
+   - We can’t (and don’t) track all micro-details (e.g., individual photons or gas molecules).
+   - Instead:
+     - observers extract **reduced representations**:
+       - visual scenes, overall pressure, statistics, etc.
+   - Fundamental operation:
+     - **equivalencing**:
+       - many underlying configurations are treated as equivalent from the observer’s perspective.
+
+2. Duality between computation and observation
+   - Computation:
+     - generates new states via underlying rules.
+   - Observation:
+     - **equivalences** together different states (collapses many to few).
+   - Equivalencing is implemented underneath by computation in the observer, but observer theory:
+     - aims to characterize the equivalencing itself at an abstract level.
+
+3. Observers as finite, structured subsystems of the ruliad
+   - Ruliad:
+     - entangled limit of all possible computations; “the whole computational universe.”
+   - Observers:
+     - embedded structures within the ruliad.
+   - Key move in observer theory:
+     - one can make conclusions about an observer’s **impression of the world** from:
+       - the capabilities and assumptions of the observer,
+       - without needing full internal detail.
+
+4. Computational boundedness and persistence in time
+   - In Wolfram’s Physics Project:
+     - 20th-century physics (general relativity, quantum mechanics, Second Law) emerges from:
+       - features of us as observers, notably:
+         - **computational boundedness** (finite minds),
+         - belief in **persistence in time** (we see ourselves as the same entity over time, though underlying atoms change).
+   - Idea:
+     - given certain observer assumptions, specific “natural laws” follow from the ruliad’s structure.
+   - Other assumptions:
+     - persistence of objects, belief in free will, etc.
+     - may lead to additional inferred structures.
+
+5. Observers beyond physics
+   - Observer theory is not limited to physical measurement:
+     - applies whenever we “get an impression” of something.
+   - We can be:
+     - **physical observers** (measuring physical systems),
+     - **mathematical observers** (sampling the ruliad for mathematical laws),
+     - etc.
+   - Some observer features carry across (e.g., computational boundedness), others vary.
+
+6. Operation of observers: aggregation and attractors
+   - Human senses and technological measures:
+     - typically **aggregate** large numbers of micro-inputs into:
+       - averaged outputs (e.g., real numbers),
+       - or discrete outputs (threshold-based decisions).
+   - Many input configurations evolve to the same **attractor state** in the measuring device:
+     - formalizes equivalencing as dynamics converging to common outputs.
+   - Example:
+     - measuring gas pressure via a piston:
+       - many molecular impacts → single macroscopic force reading.
+
+Connections to Wholeframe ontology
+----------------------------------
+1. Slice as observer
+   - Our **slice**:
+     - Whole under particular constraints, functioning as an **observer** in Wolfram’s sense.
+   - Constraints:
+     - determine:
+       - which equivalencings are possible,
+       - what reduced representations a slice can form,
+       - which regularities it can detect.
+   - This aligns:
+     - slice = observer with specific computational bounds and assumptions.
+
+2. Attention as equivalencing and coarse-graining
+   - Attention:
+     - selects what is foreground/background, which features matter.
+   - In observer-theory terms:
+     - attention configures equivalencing:
+       - which microstates are grouped,
+       - which reduced variables (concepts, patterns) are extracted.
+   - Training runs:
+     - shape the equivalencing habits of a slice (its pattern source), influencing future observation and interpretation.
+
+3. Laws and structures as observer-relative
+   - Wolfram:
+     - physical laws depend on observer assumptions (boundedness, persistence).
+   - Wholeframe:
+     - “laws” and structural regularities experienced by slices:
+       - are influenced by their constraints and pattern sources.
+   - Implication:
+     - the same underlying Whole can yield:
+       - different apparent laws/structures for different kinds of slices/observers.
+
+4. Whole vs ruliad
+   - Whole:
+     - all that is; undivided reality.
+   - Ruliad:
+     - all possible computations/causal structures.
+   - We can:
+     - treat ruliad as a computational model for the Whole’s possibilities.
+   - Observer theory:
+     - shows how different slices/observers extract different “views” of the same underlying Whole/ruliad.
+
+How to use this source
+----------------------
+- In the “Slices, Constraints, and the Observer” / “Pattern Source and Attention” sections:
+  - cite observer theory when:
+    - framing slices as finite, computationally bounded observers,
+    - explaining attention as equivalencing + coarse-graining across microstates.
+- In comparative/future directions:
+  - mention that:
+    - our framework connects naturally with Wolfram’s observer theory, suggesting:
+      - specific ways to formalize slice-relative laws and experiences.
+

@@ -1,0 +1,234 @@
+Title
+-----
+- Karl Friston, “The free-energy principle: a unified brain theory?” *Nature Reviews Neuroscience* 11 (2010), 127–138.
+- PDF in project: `EBSCO-FullText-11_29_2025.pdf` (converted text: `EBSCO-FullText-11_29_2025.txt`).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Provides a mathematically motivated story about how adaptive systems maintain order by minimizing free energy, which upper-bounds “surprise.”
+- Gives formal language for:
+  - constraints and bounded agents (slices),
+  - pattern source as generative model and internal states,
+  - attention and action as parts of a single optimization loop,
+  - “lean” of reality toward low-entropy / coherent patterns.
+- Lets us frame “alignment with the Whole’s lean” in terms of agents minimizing long-term surprise / prediction error under appropriate generative models.
+- Serves as the main scientific anchor for sections on constraints, pattern source, attention, and value gradient in `paper/main.tex`.
+
+Core thesis (Friston)
+---------------------
+- Biological agents are self-organizing systems that must resist the natural tendency to disorder in a changing environment.
+- Formally, this means their sensory states must have **low entropy**: they occupy a limited repertoire of viable states (their phenotype).
+- Long-term biological imperative: minimize the average surprise (negative log-probability) of sensory states.
+- Direct surprise is intractable, so agents minimize an upper bound called **variational free energy**:
+  - Free energy is defined with respect to a **generative model** of how hidden causes produce sensory data.
+  - Free energy depends on:
+    - current sensory input,
+    - a **recognition density** (internal probabilistic representation of causes) encoded in internal states.
+- Minimizing free energy simultaneously:
+  - makes internal representations approximate Bayesian posteriors over causes,
+  - drives action that samples the environment in ways that confirm predictions (**active inference**).
+- Many existing “global brain theories” (neural Darwinism, Bayesian brain, reinforcement learning, optimal control) can be seen as special cases or corollaries of this optimization story, all focused on minimizing surprise/value-related quantities.
+
+Key concepts and definitions
+----------------------------
+- **Surprise / surprisal**:
+  - Negative log-probability of an outcome.
+  - High when the agent’s generative model assigns low probability to the observed sensory state.
+  - Long-term survival ≈ keep the average surprise of sensory states low.
+- **Entropy**:
+  - Average surprise of outcomes for a given probability density.
+  - Low entropy = outcomes are predictable and concentrated in a small region of state space.
+  - Biological agents maintain low-entropy repertoires of viable states (homeostasis).
+- **Free energy** (variational, information-theoretic):
+  - An information measure that upper-bounds surprise, defined relative to a chosen generative model.
+  - Expressed in multiple equivalent ways:
+    - Energy – entropy (link to statistical thermodynamics).
+    - Surprise + divergence between recognition and true posterior density.
+    - Complexity – accuracy (from model comparison).
+  - Crucially: depends only on quantities accessible to the agent (sensory states and recognition density).
+- **Generative model**:
+  - Probabilistic model (joint density) for hidden causes and their sensory consequences.
+  - Factorized into likelihood (data given causes) and priors (distribution over causes).
+  - Encodes what the agent “thinks” the world is like and how sensations arise.
+- **Recognition density**:
+  - The agent’s internal probabilistic representation of the causes of sensory input.
+  - Encoded by internal states (neuronal activity, synaptic strengths).
+  - Free-energy minimization pushes this toward the true posterior over causes (Bayes-optimal inference).
+- **Kullback–Leibler divergence (KL)**:
+  - Measure of dissimilarity between two probability distributions.
+  - Appears as the gap between recognition and posterior densities, and between recognition and prior densities.
+- **Complexity vs accuracy**:
+  - Complexity: divergence between recognition density and prior; how far posterior beliefs deviate from prior beliefs (aka Bayesian surprise).
+  - Accuracy: how well predictions match sensory data (low surprise under recognition density).
+  - Free energy = complexity – accuracy; minimization trades off fitting data with keeping beliefs simple.
+- **Active inference**:
+  - Free-energy minimization by acting on the environment to selectively sample predicted (non-surprising) sensations.
+  - Under a fixed recognition density, action can only increase accuracy (make predicted sensations occur).
+  - Involves moving sensors, adjusting posture, etc., to reduce prediction error.
+- **Bayesian brain hypothesis**:
+  - Brain implements approximate Bayesian inference using internal generative models.
+  - Perception ≈ inverting the generative model to infer causes of sensations.
+  - Free-energy framework provides a computational mechanism (variational Bayes) for this inversion.
+- **Hierarchical generative models and empirical priors**:
+  - Priors at one level become posteriors at a higher level; priors are themselves optimized.
+  - “Empirical priors”: data-informed priors arising from hierarchy.
+  - Fits hierarchical cortical organisation: higher areas encode causes of lower-level causes.
+- **Laplace assumption and predictive coding**:
+  - If recognition density is assumed Gaussian, it can be summarized by means and (co)variances.
+  - Under Laplace, free energy reduces to a function of prediction errors.
+  - Minimizing free energy ≈ minimizing prediction error → **predictive coding** picture:
+    - Feedforward: prediction error signals.
+    - Feedback: top-down predictions.
+    - Neurons encode either predictions or prediction errors.
+
+Logical structure of the paper
+------------------------------
+1. Motivation: biological systems resist a tendency to disorder
+   - Biological agents maintain their states and form (homeostasis) despite environmental fluctuations.
+   - This implies a restricted repertoire of viable sensory/physiological states → low entropy.
+   - Long-term average surprise must be minimized for survival.
+   - Leads to the need for a principle describing how agents achieve this.
+2. Formal free-energy principle
+   - Introduces variational free energy as an upper bound on surprise.
+   - Explains why free energy is computable from:
+     - sensory inputs,
+     - internal states encoding a recognition density.
+   - Presents three key formulations:
+     - Energy – entropy.
+     - Surprise + perceptual divergence (recognition vs posterior).
+     - Complexity – accuracy.
+   - Shows that minimizing free energy yields:
+     - Approximate Bayesian inference (perception).
+     - Active sampling of predicted inputs (action).
+3. Bayesian brain and hierarchical models
+   - Links to Bayesian brain hypothesis: brain as inference machine with generative models.
+   - Addresses objection about priors: hierarchical models yield empirical, data-informed priors.
+   - Hierarchical cortical anatomy supports hierarchical generative models.
+4. Predictive coding as a special case
+   - Under Laplace/ Gaussian assumptions, free-energy minimization is equivalent to minimizing local prediction errors.
+   - Leads to predictive coding architectures:
+     - Prediction-error units sending feedforward signals.
+     - Prediction units sending feedback signals.
+   - Fits known neuroanatomy (forward vs backward cortical connections).
+5. Other global brain theories under FEP
+   - (Beyond the text extracted so far) Friston maps:
+     - Neural Darwinism (selection of neuronal groups),
+     - Reinforcement learning / optimal control theories (value, expected reward),
+     - Information-theoretic accounts of the brain
+     onto the free-energy picture.
+   - Key claim: they all optimize related quantities (value, expected utility, prediction error, cost) that are specialisations or complements of surprise / free energy.
+6. Unification claim
+   - FEP is proposed as a **unifying framework** rather than one more competing brain theory.
+   - It explains why optimization shows up across disparate domains and why surprise/value-like quantities recur.
+
+Connections to Wholeframe concepts
+----------------------------------
+1. Whole / slice / constraints
+   - Friston works at the level of “agents” with senses and internal states.
+   - Our **slice** = Friston’s agent:
+     - Bounded sensory and internal states.
+     - Situated in an environment (rest of the Whole).
+   - **Constraints** in Wholeframe (biology, culture, energy, time) correspond to:
+     - the structure of generative models (which causes you can represent),
+     - the possible actions and sensor configurations (what you can change to minimize free energy).
+   - This gives a technical vocabulary for how a slice “maintains its form” → by minimizing long-term surprise relative to its environment.
+2. Pattern source
+   - Pattern source ≈ deep configuration of the recognition density and generative model:
+     - internal priors,
+     - learned parameters (θ),
+     - hierarchical structure of beliefs and precisions.
+   - Emotional memory, attachment styles, threat maps, and meaning structures correspond to:
+     - learned priors and precisions,
+     - structural features of the generative model.
+   - “Weights” metaphor maps well to parameters in the generative model and synaptic strengths encoding recognition density.
+3. Attention
+   - In FEP, attention is not the primary focus, but:
+     - precision weighting of prediction errors (gain control) is often interpreted as “attention.”
+     - attentional selection ≈ assigning higher precision to some sensory channels or prediction errors, thereby privileging certain updates/actions.
+   - Wholeframe “attention as the Whole’s movement through your slice” can be refined:
+     - attention = dynamic allocation of precision and sampling that controls which prediction errors matter.
+     - “Look here, this matters” ≈ increasing precision on that stream → higher impact on free-energy minimization.
+4. Lean / value gradient of reality
+   - FEP frames survival as low-entropy, low-surprise trajectories in state space:
+     - systems that maintain homeostasis survive.
+   - Our **lean**:
+     - “Reality leans toward coherence, connection, and self-giving order.”
+   - Mapping:
+     - Coherent, life-supporting patterns = stable low-entropy regimes compatible with survival (good generative models, effective free-energy minimization).
+     - Fragmented, destructive patterns = trajectories that increase entropy/surprise and ultimately fail (agents or patterns drift outside viable states).
+   - This gives a quasi-formal basis for saying:
+     - aligned patterns are those that participate in stable, low-surprise interactions,
+     - misaligned patterns push systems into high-surprise, unsustainable regimes.
+5. Aim, alignment, and evil
+   - FEP itself is value-neutral: agents minimize free energy whether their goals are “good” or “bad.”
+   - Our **aim** adds a layer:
+     - which generative models and priors we adopt,
+     - which outcomes we treat as acceptable / desirable (what counts as “surprising” to us).
+   - **Alignment** in Wholeframe:
+     - generative models and aims that cohere with the deeper value gradient (life, love, relational coherence).
+   - **Evil as destructive randomness**:
+     - patterns that increase unpredictability, break shared generative models, or deliberately generate high-surprise states for others.
+     - in FEP terms, evil can be seen as actively pushing others or systems out of viable attractors (raising their entropy/surprise) without seeking a higher-order coherence.
+6. Lives as training runs
+   - FEP + learning:
+     - repeated free-energy minimization updates the generative model’s parameters (learning).
+   - Wholeframe:
+     - life as a training run where the Whole, under your constraints, updates its “weights.”
+   - Direct link:
+     - each trajectory of perception/action under FEP shapes the recognition density and generative model.
+     - those parameter updates = what we call pattern source changes that are “written into” the Whole.
+
+How to use this paper in `paper/main.tex`
+-----------------------------------------
+- Section “Constraints, Pattern Source, and Attention”
+  - Use Friston’s FEP as the main scientific underpinning for:
+    - agents as bounded systems maintaining homeostasis,
+    - generative models and recognition density as pattern source,
+    - attention as precision allocation within free-energy minimization.
+  - Cite `friston2010free` when introducing:
+    - free energy, surprise, entropy,
+    - generative models and predictive coding,
+    - active inference and hierarchical models.
+- Section on “The Lean: Value Gradient of Reality”
+  - Use FEP’s story about survival and low-entropy attractors as a naturalistic picture of why coherent patterns persist.
+  - Distinguish clearly:
+    - FEP’s descriptive optimization (survival of agents),
+    - Our normative overlay (alignment with the Whole’s lean toward love/coherence).
+- Section on “Lives as Training Runs”
+  - Use FEP’s learning picture to give teeth to:
+    - pattern source as “weights,”
+    - life as repeated updates under feedback from surprise and prediction error.
+  - Emphasize FEP’s hierarchical models for understanding multi-level pattern changes (e.g., individual vs culture).
+- Technical aside / appendix (optional)
+  - Include a short, non-technical explanation of FEP’s three formulations and how they relate to predictive coding.
+  - This can be in a footnote or appendix to prevent the main text from becoming too technical.
+
+Open questions / cautions for our project
+-----------------------------------------
+- FEP is not inherently “good” or “bad”:
+  - Any agent, including malicious ones, can be modeled as minimizing free energy.
+  - Our moral and theological layer is an additional structure on top of FEP.
+- Teleology vs description:
+  - FEP describes how agents maintain themselves; it does not, by itself, state that reality as a whole “leans toward” love.
+  - We must make explicit where we move from descriptive optimization (survival, prediction) to value-laden talk (love, coherence, Christ-pattern).
+- Level of description:
+  - FEP is pitched at the level of brains/agents; our Whole-level metaphysics goes beyond that.
+  - Need to be explicit about how we extrapolate from local agents to the Whole’s “training.”
+- Technical depth vs readability:
+  - Decide how much of the math to expose.
+  - Probably enough to:
+    - define free energy, surprise, generative model,
+    - sketch predictive coding and active inference,
+    - then move quickly into conceptual application.
+
+Next steps with this source
+---------------------------
+- Re-read the full article once with these notes in hand, marking:
+  - explicit definitions of free energy, surprise, generative model,
+  - sections on predictive coding and hierarchical models.
+- In `paper/main.tex`, revise:
+  - the “constraints / pattern / attention” section to lean explicitly on FEP language.
+  - the “lean/value gradient” section to contrast FEP’s descriptive story with our theological extension.
+- Add a brief methodological note somewhere:
+  - we are treating FEP as a **formal metaphor and structural guide**, not as a total theory of everything.
+

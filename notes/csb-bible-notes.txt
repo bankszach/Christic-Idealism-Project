@@ -1,0 +1,166 @@
+Title
+-----
+- *The Holy Bible, Christian Standard Bible® (CSB) Pew Bible*.
+- Local files: `CSB_Pew_Bible_2nd_Printing.pdf`, partial text in `CSB_Pew_Bible_2nd_Printing.txt`.
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Primary modern English Bible translation for:
+  - Scripture citations in the paper,
+  - theological and exegetical grounding of claims about Christ, Trinity, creation, evil, etc.
+- Gives us a consistent textual basis when we connect the ontology to explicit biblical passages.
+
+Key metadata (from front matter)
+--------------------------------
+- Translation: Christian Standard Bible® (CSB).
+- Publisher: Holman Bible Publishers, Nashville, Tennessee.
+- Copyright: © 2017 Holman Bible Publishers. All rights reserved.
+- Textual base:
+  - NT: Nestle-Aland *Novum Testamentum Graece*, 28th ed.; UBS Greek New Testament, 5th corrected ed.
+  - OT: *Biblia Hebraica Stuttgartensia*, 5th ed.
+- Books:
+  - Standard Protestant canon: 39 OT + 27 NT books.
+
+Stated goals and philosophy (from “Introduction to the CSB”)
+------------------------------------------------------------
+- Goals:
+  - Provide an accurate translation in contemporary English for a global audience.
+  - Suitable for personal study, sermon prep, devotions, memorization.
+  - Clear and understandable for public reading and sharing.
+  - Affirm the authority and truthfulness of Scripture.
+- Translation philosophy:
+  - Positions itself between strict **formal equivalence** (“word-for-word”) and **dynamic equivalence**:
+    - Seeks to balance accuracy to original wording with clarity of meaning in contemporary English.
+    - Emphasizes readability without abandoning close attention to the original text.
+  - Often described as “optimal equivalence” in CSB materials (not yet seen in the small extract but standard CSB language).
+
+Use within the project
+----------------------
+- Default translation:
+  - When the paper quotes Scripture in English, we can default to CSB unless there is a strong reason to use a different translation.
+- Citation practice:
+  - Follow CSB’s required credit line when quoting, e.g.:
+    - “Unless otherwise noted, Scripture quotations are taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission.”
+  - Keep within CSB’s permissions (no complete books, no more than 1,000 verses, and <50% of the work).
+- Theological alignment:
+  - CSB is broadly evangelical; helpful when engaging contemporary theology and church use.
+  - For deeper doctrinal work we will still lean on patristic and systematic sources (Athanasius, Augustine, Rahner, etc.), but CSB provides the shared scriptural text those traditions expound.
+
+Key passage clusters for this project
+-------------------------------------
+Note: we will not try to “summarize the whole Bible,” but focus on clusters that directly support and constrain the Wholeframe ontology. References are given without quoting the text (we will quote selectively in the paper as needed, within CSB permissions).
+
+1. Christ as Word and agent of creation
+---------------------------------------
+- John 1:1–18
+  - Logos/Word with God and as God; all things made through him; life and light language; Word becoming flesh.
+- Colossians 1:15–20
+  - Christ as image of the invisible God; in him all things created and held together; head of the body; reconciling all things.
+- Hebrews 1:1–3
+  - Son as radiance of God’s glory and exact expression of his nature; sustaining all things by his powerful word.
+- 1 Corinthians 8:6
+  - One God the Father, from whom are all things; one Lord Jesus Christ, through whom are all things.
+- Use:
+  - Underwrite “Whole creates through the Word,” “Christ-pattern as Whole in form,” “training runs” occurring within a Christ-centered creation.
+
+2. Trinity and Spirit-as-attention
+----------------------------------
+- Matthew 3:13–17
+  - Baptism of Jesus; Father’s voice, Son in the water, Spirit descending.
+- Matthew 28:18–20
+  - Baptismal formula “in the name of the Father and of the Son and of the Holy Spirit.”
+- John 14–16
+  - Father–Son mutual indwelling; promise of “another Counselor”/Spirit; Spirit guiding, teaching, reminding, glorifying the Son.
+- 2 Corinthians 13:13 (or 13:14)
+  - Trinitarian blessing (grace of the Lord Jesus Christ, love of God, fellowship of the Holy Spirit).
+- Romans 8
+  - Spirit of God and of Christ; Spirit’s witness, intercession, and role in adoption and transformation.
+- Use:
+  - Ground our mapping: Father/Whole-as-ground, Son/Whole-as-form (Christ), Spirit/Whole-as-attention and guidance.
+
+3. Creation, Whole, and sustaining presence
+-------------------------------------------
+- Genesis 1–2
+  - God as creator of heaven and earth; creation good; humans in God’s image and entrusted with stewardship.
+- Psalm 33:6–9; Psalm 104
+  - Creation by God’s word and breath; ongoing providence and sustaining.
+- Acts 17:24–28
+  - God as maker of world; in him we live and move and have our being.
+- Romans 11:36
+  - From him and through him and to him are all things.
+- Use:
+  - Support “Only the Whole is,” “no outside,” and ongoing, intimate dependence of all slices on the Whole.
+
+4. Human role, image, and transformation
+----------------------------------------
+- Genesis 1:26–28; Psalm 8
+  - Humans as made in God’s image; crowned with glory and honor; delegated authority.
+- Romans 8:29–30; 2 Corinthians 3:18
+  - Being conformed to the image of the Son; transformation “from glory to glory.”
+- Ephesians 2:8–10
+  - Saved by grace for good works prepared in advance.
+- Use:
+  - Ground “directory-level write access,” dignity and responsibility, and “Christ-pattern installed into pattern source.”
+
+5. Sin, evil, powers, and fragmentation
+---------------------------------------
+- Genesis 3
+  - Fall narrative; desire to “be like God” in disordered independence.
+- Romans 1–3
+  - Suppression of truth, idolatry, relational breakdown, universal sin.
+- Ephesians 2:1–3; Colossians 1:13
+  - Walking according to the age/powers; rescue from domain of darkness.
+- 1 John 3:4–8
+  - Sin as lawlessness; the Son appearing to destroy the works of the devil.
+- Use:
+  - Tie “misalignment,” “destructive randomness,” and fragmentation to biblical accounts of sin and the powers.
+
+6. Love, alignment, and aim
+---------------------------
+- Matthew 22:34–40
+  - Great Commandment: love of God and neighbor.
+- John 13:34–35; 15:9–17
+  - New commandment to love as Christ has loved; fruitfulness and abiding.
+- 1 Corinthians 13
+  - Love as the greatest, the enduring alignment marker.
+- 1 John 4:7–21
+  - God is love; love as evidence of knowing God; fear and love; perfected love casting out fear.
+- Use:
+  - Identify love as the concrete, relational shape of “alignment with the Whole’s lean.”
+
+7. Cross, suffering, and the Christ-pattern under constraint
+-----------------------------------------------------------
+- Synoptic Passion narratives; John 18–19
+  - Christ’s suffering, non-retaliation, trust in the Father.
+- Philippians 2:5–11
+  - Kenosis (self-emptying), obedience to death on a cross, exaltation.
+- 1 Peter 2:21–25
+  - Christ leaving an example in suffering; bearing sins; healing wounds.
+- Mark 8:34–35
+  - Taking up the cross; losing life to find it.
+- Use:
+  - Shape our account of Christ as “Whole in perfect alignment under constraint,” and of alignment as self-giving, non-violent love under pressure.
+
+8. Spirit, attention, and inner transformation
+----------------------------------------------
+- Romans 8 (again); Galatians 5:16–26
+  - Walking by the Spirit vs flesh; fruit of the Spirit; inner re-patterning.
+- 2 Corinthians 3:17–18
+  - Where the Spirit of the Lord is, there is freedom; beholding the Lord and being transformed.
+- John 16:7–15
+  - Spirit’s role in conviction, guidance, glorifying Christ.
+- Use:
+  - Support “Spirit as the Whole’s attention,” pattern rewiring, and the experiential side of training runs.
+
+9. New creation, judgment, and eschatological coherence
+-------------------------------------------------------
+- Romans 8:18–25
+  - Creation groaning; hope of liberation and adoption.
+- 1 Corinthians 15
+  - Resurrection, transformation, victory over death.
+- Revelation 21–22
+  - New heaven and earth; God dwelling with humanity; healing of nations.
+- Matthew 25:31–46
+  - Judgment of the nations; weight of love/neglect in final differentiation.
+- Use:
+  - Frame our talk about “pattern persisting,” “interface dissolving,” and final alignment/misalignment within robust biblical eschatology.

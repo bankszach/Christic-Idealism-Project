@@ -1,0 +1,129 @@
+Title
+-----
+- Sadananda Yogindra, *Vedāntasāra* (“Essence of Vedanta”).
+- Local reference: `The-vedantasara-of-sadana.txt` (scanned/partial Sanskrit text with commentary).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Classical Advaita Vedanta **primer** (prakarana) that systematizes the core nondual framework:
+  - definitions of Brahman, Īśvara, jīva, Māyā, ignorance, liberation;
+  - structure of person (bodies, sheaths, states);
+  - qualifications and method for Jnana (knowledge) practice.
+- For us:
+  - provides a clean, technical template for **ontology via definitions** that we can parallel (Whole, slice, constraints, pattern source, attention, lean, evil).
+  - shows how a mature tradition packs an entire metaphysics into a small, teachable text—useful structural model for our own “essence of the Wholeframe” exposition.
+
+Core content (standard structure of Vedāntasāra)
+-----------------------------------------------
+1. Authority and purpose
+   - Vedanta’s basis:
+     - Upanishads, Bhagavad Gita, Brahma Sutras (śruti + smṛti + nyāya).
+   - Purpose of *Vedāntasāra*:
+     - to present the essence of Advaita Vedanta in a concise and systematic form for students.
+
+2. Qualifications (sādhana-catuṣṭaya)
+   - Fourfold discipline required for effective Vedanta study:
+     - **Viveka** – discrimination between eternal (nitya) and non-eternal (anitya).
+     - **Vairāgya** – dispassion towards enjoyments here and hereafter.
+     - **Śamādi-ṣaṭka-sampatti** – six virtues: śama, dama, uparati, titikṣā, śraddhā, samādhāna.
+     - **Mumukṣutva** – intense desire for liberation.
+   - For Wholeframe:
+     - good template for our own account of what inner posture/aim is needed for deep alignment and pattern-source transformation.
+
+3. Means of knowledge (pramāṇa) and Vedantic method
+   - Outlines three primary means:
+     - perception (pratyakṣa),
+     - inference (anumāna),
+     - scripture/testimony (śabda).
+   - Knowledge of Brahman/Ātman ultimately depends on **śruti** as primary means, aided by reason and experience.
+   - For Wholeframe:
+     - helps us articulate how we treat:
+       - experience, science, and revelation/theology as different types of evidence for the Whole.
+
+4. Structure of the person: bodies and sheaths
+   - Three bodies:
+     - **Sthūla śarīra** – gross/physical body.
+     - **Sūkṣma śarīra** – subtle/psychic body (mind, senses, prāṇa).
+     - **Kāraṇa śarīra** – causal body (ignorance/seed state).
+   - Five sheaths (pañca kośa):
+     - annamaya (physical food sheath),
+     - prāṇamaya (vital sheath),
+     - manomaya (mental),
+     - vijñānamaya (intellect),
+     - ānandamaya (bliss/causal).
+   - For Wholeframe:
+     - a rich template for how to talk about **constraints** and **pattern source** across layers (bodily, affective, cognitive, deep causal).
+
+5. States of consciousness and the Self
+   - Waking (jāgrat), dream (svapna), deep sleep (suṣupti), and **Turiya** (the ever-present witnessing awareness).
+   - Shows:
+     - body and mind are changing appearances across states;
+     - the witnessing Self is constant.
+   - For Wholeframe:
+     - maps onto our “Whole-as-you” vs changing slice-interface states;
+     - supports our claim that the “real self” is deeper than the story-self.
+
+6. Māyā, superimposition (adhyāsa), and error
+   - **Māyā**:
+     - indescribable (anirvacanīya), neither real nor unreal, dependent on Brahman;
+     - power that projects names and forms.
+   - **Adhyāsa**:
+     - superimposition of body/mind attributes onto the Self, and vice versa.
+   - Root problem:
+     - mistaking the non-self (anātman) for the Self and taking the world as ultimately real.
+   - For Wholeframe:
+     - we can reinterpret:
+       - Māyā as the slice’s **constraint and generative structure** that yields a limited world-model;
+       - adhyāsa as pattern-source misalignment and misidentification.
+
+7. Jīva, Īśvara, Brahman
+   - **Brahman**:
+     - pure consciousness, existence-knowledge-bliss (sat–cit–ānanda), nondual.
+   - **Īśvara**:
+     - Brahman reflected in Māyā; Lord, controller, omniscient, cause of the universe.
+   - **Jīva**:
+     - Brahman reflected in the subtle body; individual experiencer.
+   - Relationship:
+     - essentially nondual (same Brahman),
+     - apparently different due to upādhis (limiting adjuncts).
+   - For Wholeframe:
+     - strong resonance with:
+       - Whole as ground (Father),
+       - Whole as form and Lord (Christ / Son),
+       - Whole as attention and guidance (Spirit),
+       - slices as constrained reflections of the Whole.
+
+8. Knowledge, practice, and liberation
+   - Process:
+     - **śravaṇa** – listening to teachings of nonduality.
+     - **manana** – reflecting to remove doubts.
+     - **nididhyāsana** – deep meditation/assimilation.
+   - Liberation (mokṣa):
+     - knowledge of identity of Ātman and Brahman,
+     - destruction of ignorance (not necessarily immediate destruction of prārabdha karma).
+   - Jīvanmukti vs videhamukti:
+     - living liberation while body remains vs after death.
+   - For Wholeframe:
+     - provides a mature pattern for:
+       - how **attention + pattern source** are reconfigured through repeated exposure, reflection, and contemplative stabilization.
+
+Connections to Wholeframe work
+------------------------------
+- Definitions-as-ontology:
+  - Vedāntasāra shows how to build a whole system around tight, recursive definitions.
+  - Our project can mirror this by giving crisp definitions of Whole, slice, constraints, pattern source, attention, lean, aim, alignment, evil.
+- Comparative nondualism:
+  - Vedāntasāra anchors our engagement with Advaita at a technical level, beyond popular summaries.
+  - We can position:
+    - our agreement: one underlying reality, misidentification as root problem;
+    - our divergence: enduring value of history, Christ-specific self-disclosure, strong moral/relational lean.
+
+How to use this source
+----------------------
+- Treat as:
+  - structural inspiration for our own “essence of the framework” section.
+  - background reference for any precise comparisons with Advaita Vedanta beyond Vivekananda’s expositions.
+- In `paper/main.tex`:
+  - mention *Vedāntasāra* in the comparative section as a canonical Advaita primer.
+  - do not overload the paper with technical details from it—Stage 1 aim is clarity, not full Vedānta technicality.
+

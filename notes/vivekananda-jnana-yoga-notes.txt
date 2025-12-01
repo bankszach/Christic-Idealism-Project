@@ -1,0 +1,153 @@
+Title
+-----
+- Swami Vivekananda, *Jnana Yoga* (lectures on the path of knowledge).
+- Local file: `Jnana-Yoga-by-Swami-Vivekananda.pdf` (text extraction from this PDF is garbled; notes are based on the standard content of *Jnana Yoga* as published, not a direct clean OCR of this file).
+
+Big-picture role for Wholeframe project
+---------------------------------------
+- Primary nondual comparison partner for Stage 1.
+- Clarifies:
+  - classical Advaita Vedanta’s claim that **Brahman alone is real**, the world is ultimately **Māyā** (appearance), and the true Self (**Ātman**) is identical with Brahman;
+  - the path of **knowledge** (Jnana Yoga): discrimination, disidentification, and direct realization of nonduality.
+- For us:
+  - provides a sharp foil for our “Whole and slice” ontology, which is similarly monistic but keeps a stronger, value-laden account of creation, history, and Christ.
+  - helps articulate where we agree with nondualism (one reality, misidentification as root problem) and where we diverge (status of world, personhood, love, Christ).
+
+Core themes of *Jnana Yoga*
+---------------------------
+1. Four yogas, Jnana’s place
+   - Vivekananda presents four main yogas:
+     - **Karma Yoga** – path of selfless action.
+     - **Bhakti Yoga** – path of devotion and love.
+     - **Raja Yoga** – path of meditation and mind-control.
+     - **Jnana Yoga** – path of knowledge, discrimination.
+   - Jnana is the most direct but also the most demanding; not a beginner’s path.
+
+2. Real nature of the Self
+   - Fundamental Advaitic claim:
+     - Our true nature is **Ātman**, pure consciousness, beyond body, mind, and ego.
+     - Ātman is **identical with Brahman** (the absolute, nondual reality).
+   - What we ordinarily take ourselves to be (body, mind, personality, roles) is a misidentification:
+     - “We are not the body, not the mind, not the senses; we are the witness.”
+   - Liberation (moksha) is recognizing, realizing, and stabilizing in this truth.
+
+3. Ignorance (Avidyā) and Māyā
+   - Cause of bondage:
+     - **Avidyā** – beginningless ignorance of our true nature.
+   - **Māyā**:
+     - the power that makes the One appear as many;
+     - manifests as the world of names and forms, which is empirically real but ultimately unreal (relative reality).
+   - The world is not evil per se, but:
+     - taking it as ultimately real and clinging to it leads to suffering.
+
+4. Discrimination (Viveka) and dispassion (Vairāgya)
+   - Key qualifications for Jnana Yoga:
+     - **Viveka** – discrimination between the real (Brahman) and the unreal (names and forms).
+     - **Vairāgya** – dispassion toward transient objects and experiences.
+     - Additional virtues (shatsampatti, etc.): self-control, endurance, faith, concentration.
+   - Practice:
+     - constant inquiry: “Who am I?” “What is real and unchanging here?”
+     - systematically letting go of identifications with body, mind, emotions, social identity.
+
+5. Neti Neti (“Not this, not this”)
+   - Method:
+     - negate all that is changing, limited, and objectifiable:
+       - “I am not the body, not the prana, not the mind, not the intellect, not the ego…”
+     - whatever can be observed or known is not the ultimate subject.
+   - What remains:
+     - pure witnessing consciousness, which is identical with Brahman.
+
+6. God, world, and personal deities
+   - At Advaita’s highest level:
+     - **nirguṇa Brahman** – impersonal, attribute-less absolute.
+   - Personal God (**Īśvara**) and deities are:
+     - relative, provisional forms helpful for devotion and practice;
+     - ultimately resolved into nondual Brahman in Jnana realization.
+   - There is no final, irreducible distinction between God and soul; difference is only apparent and due to ignorance.
+
+7. Ethics and compassion in Jnana Yoga
+   - Even in nondual knowledge, ethics matter because:
+     - seeing all beings as Self transforms how you act.
+   - Compassion arises naturally:
+     - harming others is harming oneself (all is Self).
+   - But ultimate emphasis is on **knowledge**, not on irreversible historical acts of God (as in Christology).
+
+Connections to Wholeframe concepts
+----------------------------------
+1. Whole and slice vs Brahman and Jiva
+   - Strong resonance:
+     - Brahman ↔ Whole as undivided reality.
+     - Jiva (individual soul) ↔ Whole-as-slice (Whole under constraints).
+   - Difference:
+     - Advaita tends to see the individual as ultimately **illusory** (no real, enduring difference at the highest level).
+     - Wholeframe treats slices as real **modes of appearance** of the Whole, with their patterning permanently mattering to the Whole’s configuration.
+
+2. Ignorance vs misalignment
+   - Advaita:
+     - root problem = **ignorance of true nature** (Avidyā).
+   - Wholeframe:
+     - combines:
+       - ignorance / misperception (pattern-source distortions),
+       - **misalignment of aim** relative to the Whole’s lean (value gradient).
+   - We can say:
+     - ignorance in our system = not seeing oneself as Whole-under-constraints;
+     - misalignment = actively aiming against the Whole’s lean (destructive randomness).
+
+3. Attention and discrimination
+   - Jnana Yoga’s **Viveka** and **Neti Neti** are forms of disciplined attention:
+     - repeatedly bringing awareness back to the witnessing Self,
+     - withdrawing attention from transient identifications.
+   - Wholeframe:
+     - attention is “the Whole’s movement through your slice.”
+     - Jnana-style practices become:
+       - ways of steering attention away from false identifications and toward deeper coherence.
+
+4. World, value, and lean
+   - Advaita:
+     - world of names and forms is relatively real but ultimately sublated in Brahman.
+     - emphasis on transcendence of world.
+   - Wholeframe:
+     - world and history have **positive, enduring significance**:
+       - patterns formed in lives are “written into the Whole’s weights.”
+     - the Whole has a **lean** toward coherence, love, and self-giving order.
+   - We diverge here:
+     - we do not treat the world as ultimately negated;
+     - we emphasize a value-laden creative process, not merely illusion to be seen through.
+
+5. Christ and personal God vs nirguṇa Brahman
+   - Jnana Yoga’s highest ideal:
+     - impersonal Brahman; personal God is provisional.
+   - Wholeframe:
+     - **Christ** as the decisive self-disclosure of the Whole’s nature under constraints;
+     - Trinity (Father/Whole, Son/Form, Spirit/Attention) as structurally real, not merely provisional.
+   - Dialogue point:
+     - we can acknowledge Jnana’s insight into the nondual ground,
+     - but insist that the Whole is not less than personal, self-giving love as revealed in Christ.
+
+How to use *Jnana Yoga* in `paper/main.tex`
+-------------------------------------------
+- Early ontology sections:
+  - Briefly compare:
+    - Brahman/Ātman identity with our Whole/slice language.
+    - Avidyā with pattern-source ignorance.
+  - Emphasize:
+    - we share the insight that “self” is not a separate substance, but differ on the status of world and history.
+- Comparative section (nondual traditions):
+  - Use Vivekananda as the main Advaita voice when:
+    - summarizing nondual claims about one reality,
+    - articulating the path of knowledge and disidentification.
+  - Then contrast:
+    - our Christ-centered, value-gradient ontology,
+    - our strong affirmation of creation, embodiment, and history.
+
+Open questions / cautions for our project
+-----------------------------------------
+- Avoid shallow syncretism:
+  - Jnana Yoga is **not** just “same as” Christian contemplation.
+  - Be explicit about deep differences:
+    - personhood, love, cross/resurrection, and judgment.
+- Clarity about “illusion” vs “training run”:
+  - For us, lives are training runs whose patterns permanently matter;
+  - for Advaita, ultimate realization often devalues historical particularity.
+  - We should articulate this difference clearly when we use Vivekananda as a dialogue partner.
+

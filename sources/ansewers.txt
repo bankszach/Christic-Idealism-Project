@@ -1,0 +1,116 @@
+Wholeframe Research Project — Research Plan
+===========================================
+
+Purpose
+-------
+- Keep the early phase small, deep, and tractable.
+- Make it clear what Stage 1 is for, what gets produced, and which sources actually matter first.
+
+1. Stage 1 — Core Ontology and Trinitarian Mapping
+--------------------------------------------------
+
+1.1 Objectives
+--------------
+- Articulate a clean ontology of Whole, slice, constraints, pattern source, attention, lean, aim, alignment, and evil.
+- Nail the “training run / weights” picture and how lives are integrated into the Whole.
+- Propose a structurally precise, non-hand-wavy mapping to Father / Son / Spirit.
+- Ground the framework in a minimal but serious set of dialogue partners (process, systems, nondual, Christian theology).
+
+1.2 Guiding questions
+---------------------
+- What exactly do we mean when we say “there is only the Whole” and “you are the Whole under constraints” (not metaphor, but ontology)?
+- Is the Whole temporally learning (process/panentheist) or timeless with an internal logical structure, and how literal is the training metaphor?
+- How do pattern, attention, and aim jointly explain growth, transformation, and misalignment without erasing genuine responsibility?
+- How can the Trinity mapping avoid collapsing into trivial modalism while still being structurally elegant?
+
+1.3 Concrete outputs (Stage 1)
+------------------------------
+- A complete, readable Stage 1 draft of `paper/main.tex` with:
+  - Sections on Whole/slice, constraints/pattern/attention, lean/value gradient, aim/alignment/evil, training runs and death, Christ/Spirit/Trinity, religion, and human agency.
+  - At least one explicit, tight paragraph defining each core term (Whole, slice, constraints, pattern source, attention, lean, aim, alignment/misalignment, evil, training run).
+  - A short “schema” paragraph (and optional diagram later) describing the Whole → constraints → slice → pattern/attention → updates loop.
+- A minimal but solid literature scaffold using the Stage 1 sources below, with in-text citations in each major section.
+- A short list of big questions reserved for Stage 2 (e.g. eschatology, structured evil, institutional/tech design implications).
+
+1.4 Stage 1 workplan
+---------------------
+- Consolidate the core ontology
+  - Draft tight 1–2 sentence definitions for each core term and integrate them into `paper/main.tex`. (Status: first pass done in the new `Core Concepts` section.)
+  - Clarify how literal “learning,” “weights,” and “randomness” are meant to be.
+- Align refined system text with the paper structure
+  - Use the current long-form system document as the backbone and make sure each major idea appears explicitly in the LaTeX with good sectioning.
+- Sharpen the Trinitarian mapping
+  - Write a dedicated subsection on how Father/Whole, Son/form/Christ-pattern, and Spirit/attention fit orthodox constraints and avoid pure modalism.
+  - Clarify the relation between Jesus of Nazareth and the more abstract “Christ-pattern”.
+- Do minimal but targeted literature mapping
+  - Rely mainly on the Stage 1 sources below; avoid exploding the bibliography.
+  - Make sure each main section names at least one concrete dialogue partner (Whitehead, Friston, Vedanta, Rahner, etc.).
+- Sketch the structural schema
+  - Add a paragraph (and maybe a simple figure later) that presents the Whole–slice–pattern–attention–update loop as a dynamical system.
+
+1.5 Stage 1 core sources to actually use first
+---------------------------------------------
+
+Goal for this phase: keep the stack small and deep. These are the ones to read carefully, take notes on, and explicitly weave into the first complete pass of the paper.
+
+1. Metaphysics of the Whole / process
+-------------------------------------
+- `whitehead1978process` — anchor for a dynamic, internally-related Whole; use for the claim that reality is processual, relational, and non-atomistic.
+- (Add later) A short, secondary intro to process theology (e.g. Cobb or Griffin) if we need clearer theological language than Whitehead himself.
+
+2. Systems, cognition, and constraints
+--------------------------------------
+- `friston2010free` — core reference for active inference / free-energy; use to justify talk of constraints, prediction, and agents as bounded inference machines.
+- `wolfram2002nks` — background for simple rules → complex patterns and global “Whole-like” behavior from local updates.
+- `wolfram2021ruliad` — optional but useful as an analogy for a single underlying Whole explored from many computational “slices”.
+
+3. Christian theology and the Trinity
+-------------------------------------
+- `augustine1991trinity` — classic psychological/relational model of the Trinity; cite when discussing analogies for one reality, three self-relations.
+- `rahner1997trinity` — key for “the economic Trinity is the immanent Trinity”; use directly when arguing that the way the Whole shows up as Christ/Spirit discloses its inner life.
+- `athanasius2011incarnation` — anchor for Christ as concrete historical incarnation; use when connecting the abstract “Christ-pattern” to Jesus of Nazareth.
+- `wright1996jesus` — historical-Jesus grounding; use when talking about Christ under real constraint, political pressure, and death.
+
+4. Nondual comparison partners
+------------------------------
+- `vivekanandajnana` — Vedantic articulation of one reality appearing as many; use as a comparative foil for “Whole and slice”.
+- `sarvapriyananda2020advaita` — contemporary, accessible Advaita; helpful when clarifying where the framework agrees with and departs from classical nondualism.
+
+5. Human person, pattern, and consciousness (to add soon)
+---------------------------------------------------------
+- Add an analytic idealist or consciousness-source (e.g. Bernardo Kastrup) as a dialogue partner on “one mind, many alters”.
+- Add one integrated information theory or related systems-consciousness paper if we decide to lean on formal measures of coherence.
+
+1.6 Source-specific notes tracking
+----------------------------------
+- `friston2010free` — detailed notes in `notes/friston2010-free-energy-notes.txt`; use as the main technical reference for:
+  - constraints and agents as self-organizing systems,
+  - pattern source as generative model/recognition density,
+  - attention as precision/active inference,
+  - a naturalistic backbone for the value gradient discussion.
+- Whitehead SEP article — detailed notes in `notes/whitehead-sep-notes.txt`; use to:
+  - ground our process/relational metaphysics historically,
+  - back the rejection of simple location and atomistic materialism,
+  - connect our “Whole and slice” ontology to Whitehead’s process metaphysics while clarifying differences.
+- Athanasius, *On the Incarnation* — detailed notes in `notes/athanasius-on-incarnation-notes.txt`; use to:
+  - anchor the Christ-pattern and Trinity mapping in classic Nicene Christology,
+  - preserve creation-through-the-Word and incarnation-for-salvation as core commitments,
+  - guard against over-abstracting Christ into a mere alignment archetype.
+- Swami Vivekananda, *Jnana Yoga* — detailed notes in `notes/vivekananda-jnana-yoga-notes.txt`; use to:
+  - represent Advaita Vedanta / nondualism as a primary comparison class,
+  - clarify agreements (one reality, misidentification) and deep differences (world, history, Christ, personal God),
+  - inform the “nondual comparison” parts of `paper/main.tex` without collapsing distinctions.
+- Sadananda’s *Vedāntasāra* and Sarvapriyananda’s talk — detailed notes in `notes/vedantasara-of-sadananda-notes.txt` and `notes/vedantasara-sarvapriyananda-talk-notes.txt`; use to:
+  - see how Advaita systematizes its ontology as precise definitions,
+  - model our own “essence of the framework” section structurally,
+  - ground comparisons with Advaita beyond popular-level summaries.
+- CSB Pew Bible — detailed notes in `notes/csb-bible-notes.txt`; use as:
+  - the default English Scripture translation for quotations,
+  - a clearly documented textual base when tying the ontology to specific biblical passages.
+
+2. Later stages (sketch only)
+-----------------------------
+- Stage 2 — Ethical, experiential, and institutional elaboration
+  - Work out implications for virtue, trauma, spiritual practice, community, and institutional/technological design.
+- Stage 3 — Empirical and formal connections
+  - Sharpen links to specific formalisms (IIT, active inference models, non-equilibrium thermodynamics) and possible phenomenological/empirical studies.
